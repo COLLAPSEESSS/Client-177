@@ -1,0 +1,1858 @@
+10:02 [Info] Loading Oxide Core v2.0.4048...
+10:02 [Info] Loading extensions...
+10:02 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+10:02 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+10:02 [Info] Loaded extension Rust v2.0.0 by Oxide Team and Contributors
+10:02 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+10:02 [Info] Unity version: 2019.4.7f1
+10:02 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+10:03 [Error] Could not check for update to Compiler.exe
+10:03 [Error] The remote server returned an error: (522) .
+10:03 [Info] Using Covalence provider for game 'Rust'
+10:03 [Info] Loading plugins...
+10:03 [Info] Loaded plugin Rust v2.0.0 by Oxide Team and Contributors
+10:03 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+10:05 [Info] IP address from Steam query: 0.0.0.0
+10:07 [Info] NoSteamDevRust was compiled successfully in 2891ms
+10:07 [Info] Loaded plugin AutoInsecure v1.0.0 by Zirper
+10:08 [Info] UIKits was compiled successfully in 440ms
+10:08 [Error] [UIKits] IMAGE LIBRARY IS NOT INSTALLED!
+10:08 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+10:08 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+10:08 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+10:08 [Info] ImageLibrary was compiled successfully in 362ms
+10:08 [Warning] [Image Library] Waiting for Steamworks to update item definitions....
+10:08 [Warning] Calling 'OnServerInitialized' on 'ImageLibrary v2.0.61' took 104ms
+10:08 [Info] Loaded plugin Image Library v2.0.61 by Absolut & K1lly0u
+10:08 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+10:08 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+10:08 [Info] [Image Library] Starting order UIKits
+10:17 [Info] Permission 'kitsdefault.use' doesn't exist
+10:17 [Info] Permission 'kitsdefault.use' doesn't exist
+10:18 [Info] Permission 'kitsdefault.use' doesn't exist
+10:18 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+10:19 [Info] UIKits was compiled successfully in 3425ms
+10:19 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+10:19 [Info] [Image Library] Starting order UIKits
+10:20 [Info] UIKits was compiled successfully in 2505ms
+10:20 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+10:20 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+10:21 [Info] [Image Library] Starting order UIKits
+10:21 [Info] UIKits was compiled successfully in 580ms
+10:21 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+10:21 [Warning] Missing plugin name prefix 'uikits' for permission 'Kitsdefault.use' (by plugin 'UIKits')
+10:21 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+10:21 [Info] Group 'admin' granted permission 'Kitsdefault.use'
+10:21 [Info] UIKits was compiled successfully in 480ms
+10:21 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+10:21 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+10:21 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+10:22 [Info] [Image Library] Starting order UIKits
+10:23 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+10:23 [Error] Error while compiling: Kits.cs(1250,93): error CS0117: `Oxide.Game.Rust.Cui.CuiImageComponent' does not contain a definition for `SkinId'
+10:24 [Info] [Image Library] Starting order UIKits
+10:25 [Error] Error while compiling: Kits.cs(1277,15): error CS1525: Unexpected symbol `void'
+10:25 [Error] Error while compiling: Kits.cs(1250,52): error CS0117: `Oxide.Game.Rust.Cui.CuiImageComponent' does not contain a definition for `ItemId'
+10:26 [Error] Error while compiling: Kits.cs(1250,33): error CS0117: `Oxide.Game.Rust.Cui.CuiImageComponent' does not contain a definition for `ItemId'
+10:26 [Error] Error while compiling: Kits.cs(1216,93): error CS0117: `Oxide.Game.Rust.Cui.CuiImageComponent' does not contain a definition for `SkinId'
+10:27 [Error] Error while compiling: Kits.cs(1216,93): error CS0117: `Oxide.Game.Rust.Cui.CuiImageComponent' does not contain a definition for `SkinId'
+10:28 [Error] Error while compiling: Kits.cs(1216,93): error CS0117: `Oxide.Game.Rust.Cui.CuiImageComponent' does not contain a definition for `SkinId'
+10:28 [Error] Error while compiling: Kits.cs(1146,93): error CS0117: `Oxide.Game.Rust.Cui.CuiImageComponent' does not contain a definition for `SkinId'
+10:28 [Error] Error while compiling: Kits.cs(1112,93): error CS0117: `Oxide.Game.Rust.Cui.CuiImageComponent' does not contain a definition for `SkinId'
+10:28 [Error] Error while compiling: Kits.cs(1040,93): error CS0117: `Oxide.Game.Rust.Cui.CuiImageComponent' does not contain a definition for `SkinId'
+10:28 [Error] Error while compiling: Kits.cs(1006,93): error CS0117: `Oxide.Game.Rust.Cui.CuiImageComponent' does not contain a definition for `SkinId'
+10:29 [Info] Kits was compiled successfully in 493ms
+10:29 [Warning] Calling 'OnServerInitialized' on 'Kits v1.0.0' took 172ms
+10:29 [Info] Loaded plugin Kits v1.0.0 by XAVIER
+10:29 [Error] Plugin filename Kits.cs must match the main class UIKits (should be UIKits.cs)
+10:29 [Info] Unloaded plugin Kits v1.0.0 by XAVIER
+10:29 [Info] UIKits was compiled successfully in 426ms
+10:29 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+10:34 [Error] Failed to call hook 'CmdConsoleMain' on plugin 'UIKits v1.0.0' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.UIKits.CmdConsoleMain (ConsoleSystem+Arg args) [0x000ea] in <40056a8a451e4566a0467197006c8217>:0 
+  at Oxide.Plugins.UIKits.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x002fc] in <40056a8a451e4566a0467197006c8217>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e130131009984c9f85bca364a8a5a454>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d1a7dbb0435a4810a34b77f92cb88163>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d1a7dbb0435a4810a34b77f92cb88163>:0 
+10:35 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+10:35 [Info] UIKits was compiled successfully in 2875ms
+10:35 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+10:35 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+10:35 [Info] [Image Library] Starting order UIKits
+10:39 [Info] UIKits was compiled successfully in 3237ms
+10:39 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+10:39 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+10:39 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 215ms
+10:39 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+10:39 [Info] [Image Library] Starting order UIKits
+10:40 [Info] UIKits was compiled successfully in 916ms
+10:40 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+10:40 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+10:40 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+10:41 [Info] UIKits was compiled successfully in 677ms
+10:41 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+10:41 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+10:41 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+10:41 [Info] [Image Library] Starting order UIKits
+10:42 [Info] UIKits was compiled successfully in 2924ms
+10:42 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+10:42 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+10:42 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 105ms
+10:42 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+10:42 [Info] UIKits was compiled successfully in 574ms
+10:42 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+10:42 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+10:43 [Info] [Image Library] Starting order UIKits
+10:44 [Info] UIKits was compiled successfully in 2910ms
+10:44 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+10:44 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+10:44 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+10:44 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+10:44 [Info] Kits was compiled successfully in 721ms
+10:44 [Warning] Calling 'OnServerInitialized' on 'Kits v1.0.0' took 162ms
+10:44 [Info] Loaded plugin Kits v1.0.0 by XAVIER
+10:45 [Error] Failed to call hook 'CmdConsoleMain' on plugin 'Kits v1.0.0' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Kits.CmdConsoleMain (ConsoleSystem+Arg args) [0x000ea] in <85ab2c07f4404d6b956f6842fd872191>:0 
+  at Oxide.Plugins.Kits.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x002fc] in <85ab2c07f4404d6b956f6842fd872191>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e130131009984c9f85bca364a8a5a454>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d1a7dbb0435a4810a34b77f92cb88163>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d1a7dbb0435a4810a34b77f92cb88163>:0 
+10:45 [Info] [Image Library] Starting order UIKits
+10:45 [Error] Failed to call hook 'CmdConsoleMain' on plugin 'Kits v1.0.0' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Kits.CmdConsoleMain (ConsoleSystem+Arg args) [0x000ea] in <85ab2c07f4404d6b956f6842fd872191>:0 
+  at Oxide.Plugins.Kits.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x002fc] in <85ab2c07f4404d6b956f6842fd872191>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e130131009984c9f85bca364a8a5a454>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d1a7dbb0435a4810a34b77f92cb88163>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d1a7dbb0435a4810a34b77f92cb88163>:0 
+10:46 [Info] [Image Library] Starting order UIKits
+10:48 [Error] Failed to call hook 'CmdConsoleMain' on plugin 'Kits v1.0.0' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Kits.CmdConsoleMain (ConsoleSystem+Arg args) [0x000ea] in <85ab2c07f4404d6b956f6842fd872191>:0 
+  at Oxide.Plugins.Kits.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x002fc] in <85ab2c07f4404d6b956f6842fd872191>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e130131009984c9f85bca364a8a5a454>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d1a7dbb0435a4810a34b77f92cb88163>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d1a7dbb0435a4810a34b77f92cb88163>:0 
+10:48 [Info] [Image Library] Starting order UIKits
+10:48 [Info] Kits was compiled successfully in 2773ms
+10:48 [Info] Unloaded plugin Kits v1.0.0 by XAVIER
+10:48 [Warning] Missing plugin name prefix 'kits' for permission 'kitsdefault.use' (by plugin 'Kits')
+10:48 [Warning] Calling 'OnServerInitialized' on 'Kits v1.0.0' took 224ms
+10:48 [Info] Loaded plugin Kits v1.0.0 by XAVIER
+10:49 [Info] Unloaded plugin Kits v1.0.0 by XAVIER
+10:49 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+10:49 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+10:50 [Info] [Image Library] Starting order Kits
+10:50 [Info] [Image Library] Starting order UIKits
+10:51 [Error] Error while compiling: UIKits.cs(324,115): error CS1061: Type `Item' does not contain a definition for `IsDestroyed' and no extension method `IsDestroyed' of type `Item' could be found. Are you missing an assembly reference?
+10:51 [Error] Error while compiling: UIKits.cs(324,115): error CS1061: Type `Item' does not contain a definition for `IsDestroyed' and no extension method `IsDestroyed' of type `Item' could be found. Are you missing an assembly reference?
+10:51 [Error] Error while compiling: UIKits.cs(1225,157): error CS1026: Unexpected symbol `;', expecting `)'
+10:51 [Error] Error while compiling: UIKits.cs(1225,157): error CS1026: Unexpected symbol `;', expecting `)'
+10:52 [Info] UIKits was compiled successfully in 512ms
+10:52 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+10:52 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 135ms
+10:52 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+10:52 [Info] UIKits was compiled successfully in 406ms
+10:52 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+10:52 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+10:52 [Info] [Image Library] Starting order UIKits
+10:54 [Info] [Image Library] Starting order UIKits
+10:54 [Error] Plugin filename UIKits — копия.cs must match the main class UIKits (should be UIKits.cs)
+10:54 [Info] UIKits was compiled successfully in 2603ms
+10:54 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+10:54 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+10:54 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+10:54 [Info] UIKits was compiled successfully in 525ms
+10:54 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+10:54 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+10:54 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+10:55 [Info] UIKits was compiled successfully in 497ms
+10:55 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+10:55 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+10:55 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 119ms
+10:55 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+10:55 [Info] UIKits was compiled successfully in 489ms
+10:55 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+10:55 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+10:55 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+10:55 [Info] [Image Library] Starting order UIKits
+10:57 [Info] UIKits was compiled successfully in 2997ms
+10:57 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+10:57 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+10:57 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+10:57 [Info] [Image Library] Starting order UIKits
+10:57 [Info] UIKits was compiled successfully in 652ms
+10:57 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+10:57 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+10:57 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+10:58 [Info] UIKits was compiled successfully in 532ms
+10:58 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+10:58 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+10:58 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+10:58 [Info] UIKits was compiled successfully in 678ms
+10:58 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+10:58 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+10:58 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+10:59 [Info] [Image Library] Starting order UIKits
+11:01 [Info] [Image Library] Starting order UIKits
+11:01 [Error] Plugin filename UIKits — копия.cs must match the main class UIKits (should be UIKits.cs)
+11:01 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+11:02 [Error] Plugin filename UIKits — копия.cs must match the main class UIKits (should be UIKits.cs)
+11:02 [Info] UIKits was compiled successfully in 2991ms
+11:02 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 296ms
+11:02 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+11:03 [Info] [Image Library] Starting order UIKits
+11:03 [Info] UIKits was compiled successfully in 2912ms
+11:03 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+11:03 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+11:03 [Info] UIKits was compiled successfully in 927ms
+11:03 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+11:03 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+11:03 [Info] UIKits was compiled successfully in 738ms
+11:03 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+11:03 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+11:03 [Info] UIKits was compiled successfully in 730ms
+11:03 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+11:03 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+11:04 [Info] [Image Library] Starting order UIKits
+11:06 [Info] [Image Library] Starting order UIKits
+11:08 [Info] [Image Library] Starting order UIKits
+11:09 [Info] UIKits was compiled successfully in 3165ms
+11:09 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+11:09 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 388ms
+11:09 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+11:09 [Info] UIKits was compiled successfully in 615ms
+11:09 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+11:09 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+11:09 [Info] UIKits was compiled successfully in 527ms
+11:09 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+11:09 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+11:10 [Info] UIKits was compiled successfully in 562ms
+11:10 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+11:10 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+11:10 [Info] [Image Library] Starting order UIKits
+11:11 [Warning] Calling 'CmdConsoleMain' on 'UIKits v1.0.0' took 114ms
+11:12 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+11:12 [Info] [Image Library] Starting order UIKits
+11:12 [Info] UIKits was compiled successfully in 2710ms
+11:12 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+11:13 [Info] [Image Library] Starting order UIKits
+11:15 [Info] [Image Library] Starting order UIKits
+11:16 [Info] UIKits was compiled successfully in 3344ms
+11:16 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+11:16 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+11:16 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 575ms
+11:16 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+11:16 [Info] UIKits was compiled successfully in 646ms
+11:16 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+11:16 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+11:16 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+11:16 [Warning] Calling 'KitFunctional' on 'UIKits v1.0.0' took 103ms
+11:16 [Info] UIKits was compiled successfully in 557ms
+11:16 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+11:16 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+11:16 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 103ms
+11:16 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+11:16 [Info] UIKits was compiled successfully in 669ms
+11:16 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+11:16 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+11:16 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 102ms
+11:16 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+11:16 [Warning] Calling 'KitFunctional' on 'UIKits v1.0.0' took 129ms
+11:17 [Info] UIKits was compiled successfully in 566ms
+11:17 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+11:17 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+11:17 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+11:17 [Info] UIKits was compiled successfully in 552ms
+11:17 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+11:17 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+11:17 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+11:17 [Info] [Image Library] Starting order UIKits
+11:19 [Error] Plugin filename UIKits — копия (2).cs must match the main class UIKits (should be UIKits.cs)
+11:19 [Info] UIKits was compiled successfully in 2986ms
+11:19 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+11:19 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+11:19 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+11:19 [Info] [Image Library] Starting order UIKits
+11:19 [Info] UIKits was compiled successfully in 643ms
+11:19 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+11:19 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+11:19 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+11:21 [Info] [Image Library] Starting order UIKits
+11:22 [Info] UIKits was compiled successfully in 3350ms
+11:22 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+11:22 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+11:22 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 542ms
+11:22 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+11:22 [Info] UIKits was compiled successfully in 747ms
+11:22 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+11:22 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+11:22 [Info] [Image Library] Starting order UIKits
+11:24 [Info] [Image Library] Starting order UIKits
+11:25 [Warning] [DEBUG] Reload requested for plugin which is already loading: UIKits
+11:25 [Info] UIKits was compiled successfully in 2789ms
+11:25 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+11:25 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+11:25 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 185ms
+11:25 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+11:26 [Info] [Image Library] Starting order UIKits
+11:27 [Warning] Calling 'CmdConsoleMain' on 'UIKits v1.0.0' took 149ms
+11:28 [Info] [Image Library] Starting order UIKits
+11:29 [Info] LabsLogo was compiled successfully in 3694ms
+11:29 [Error] Failed to call hook 'OnServerInitialized' on plugin 'LabsLogo v1.0.0' (KeyNotFoundException: The given key was not present in the dictionary.)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.LabsLogo.FirstCheckEvents () [0x00159] in <b0df0f20614b4e689fb3e48bb536073d>:0 
+  at Oxide.Plugins.LabsLogo.OnServerInitialized () [0x00024] in <b0df0f20614b4e689fb3e48bb536073d>:0 
+  at Oxide.Plugins.LabsLogo.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0006a] in <b0df0f20614b4e689fb3e48bb536073d>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e130131009984c9f85bca364a8a5a454>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d1a7dbb0435a4810a34b77f92cb88163>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d1a7dbb0435a4810a34b77f92cb88163>:0 
+11:29 [Warning] Calling 'OnServerInitialized' on 'LabsLogo v1.0.0' took 3449ms
+11:29 [Info] Loaded plugin LabsLogo v1.0.0 by Frizen
+11:29 [Warning] Calling 'Unload' on 'LabsLogo v1.0.0' took average 3449ms
+11:29 [Info] Unloaded plugin LabsLogo v1.0.0 by Frizen
+11:29 [Error] Failed to call hook 'OnServerInitialized' on plugin 'LabsLogo v1.0.0' (KeyNotFoundException: The given key was not present in the dictionary.)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.LabsLogo.FirstCheckEvents () [0x00159] in <b0df0f20614b4e689fb3e48bb536073d>:0 
+  at Oxide.Plugins.LabsLogo.OnServerInitialized () [0x00024] in <b0df0f20614b4e689fb3e48bb536073d>:0 
+  at Oxide.Plugins.LabsLogo.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0006a] in <b0df0f20614b4e689fb3e48bb536073d>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e130131009984c9f85bca364a8a5a454>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d1a7dbb0435a4810a34b77f92cb88163>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d1a7dbb0435a4810a34b77f92cb88163>:0 
+11:29 [Warning] Calling 'OnServerInitialized' on 'LabsLogo v1.0.0' took 108ms
+11:29 [Info] Loaded plugin LabsLogo v1.0.0 by Frizen
+11:30 [Info] [Image Library] Starting order UIKits
+11:30 [Warning] [DEBUG] Reload requested for plugin which is already loading: LabsLogo
+11:30 [Info] LabsLogo was compiled successfully in 3163ms
+11:30 [Info] Unloaded plugin LabsLogo v1.0.0 by Frizen
+11:30 [Error] Failed to call hook 'OnServerInitialized' on plugin 'LabsLogo v1.0.0' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.LabsLogo.DrawMenu (BasePlayer player) [0x002a7] in <3cde9727333d4e069a89d570c52bea8f>:0 
+  at Oxide.Plugins.LabsLogo.OnPlayerConnected (BasePlayer player) [0x0005f] in <3cde9727333d4e069a89d570c52bea8f>:0 
+  at Oxide.Plugins.LabsLogo.OnServerInitialized () [0x00140] in <3cde9727333d4e069a89d570c52bea8f>:0 
+  at Oxide.Plugins.LabsLogo.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0006a] in <3cde9727333d4e069a89d570c52bea8f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e130131009984c9f85bca364a8a5a454>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d1a7dbb0435a4810a34b77f92cb88163>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d1a7dbb0435a4810a34b77f92cb88163>:0 
+11:30 [Warning] Calling 'OnServerInitialized' on 'LabsLogo v1.0.0' took 241ms
+11:30 [Info] Loaded plugin LabsLogo v1.0.0 by Frizen
+11:31 [Error] Could not load plugin 'EventRandomizer' (no plugin found with that file name)
+11:31 [Error] Failed to call hook 'MenuHandler' on plugin 'LabsLogo v1.0.0' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.LabsLogo.DrawMenu (BasePlayer player) [0x002a7] in <3cde9727333d4e069a89d570c52bea8f>:0 
+  at Oxide.Plugins.LabsLogo.MenuHandler (ConsoleSystem+Arg args) [0x00076] in <3cde9727333d4e069a89d570c52bea8f>:0 
+  at Oxide.Plugins.LabsLogo.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x005c3] in <3cde9727333d4e069a89d570c52bea8f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e130131009984c9f85bca364a8a5a454>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d1a7dbb0435a4810a34b77f92cb88163>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d1a7dbb0435a4810a34b77f92cb88163>:0 
+11:31 [Error] Failed to call hook 'MenuHandler' on plugin 'LabsLogo v1.0.0' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.LabsLogo.DrawMenu (BasePlayer player) [0x002a7] in <3cde9727333d4e069a89d570c52bea8f>:0 
+  at Oxide.Plugins.LabsLogo.MenuHandler (ConsoleSystem+Arg args) [0x00050] in <3cde9727333d4e069a89d570c52bea8f>:0 
+  at Oxide.Plugins.LabsLogo.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x005c3] in <3cde9727333d4e069a89d570c52bea8f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e130131009984c9f85bca364a8a5a454>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d1a7dbb0435a4810a34b77f92cb88163>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d1a7dbb0435a4810a34b77f92cb88163>:0 
+11:31 [Info] LabsLogo was compiled successfully in 488ms
+11:31 [Info] Unloaded plugin LabsLogo v1.0.0 by Frizen
+11:31 [Warning] Calling 'OnServerInitialized' on 'LabsLogo v1.0.0' took 147ms
+11:31 [Info] Loaded plugin LabsLogo v1.0.0 by Frizen
+11:31 [Info] LabsLogo was compiled successfully in 791ms
+11:31 [Info] Unloaded plugin LabsLogo v1.0.0 by Frizen
+11:31 [Warning] Calling 'OnServerInitialized' on 'LabsLogo v1.0.0' took 104ms
+11:31 [Info] Loaded plugin LabsLogo v1.0.0 by Frizen
+11:32 [Info] [Image Library] Starting order UIKits
+11:33 [Warning] [DEBUG] Reload requested for plugin which is already loading: LabsLogo
+11:33 [Error] Error while compiling: LabsLogo.cs(1032,246): error CS1525: Unexpected symbol `end-of-file'
+11:33 [Error] Error while compiling: LabsLogo.cs(1032,246): error CS1525: Unexpected symbol `end-of-file'
+11:33 [Info] LabsLogo was compiled successfully in 1400ms
+11:33 [Info] Unloaded plugin LabsLogo v1.0.0 by Frizen
+11:33 [Warning] Calling 'OnServerInitialized' on 'LabsLogo v1.0.0' took 162ms
+11:33 [Info] Loaded plugin LabsLogo v1.0.0 by Frizen
+11:33 [Info] [Image Library] Starting order UIKits
+11:34 [Info] LabsLogo was compiled successfully in 683ms
+11:34 [Info] Unloaded plugin LabsLogo v1.0.0 by Frizen
+11:34 [Warning] Calling 'OnServerInitialized' on 'LabsLogo v1.0.0' took 576ms
+11:34 [Info] Loaded plugin LabsLogo v1.0.0 by Frizen
+11:34 [Error] Could not load plugin 'ImageLibraty' (no plugin found with that file name)
+11:34 [Info] Unloaded plugin Image Library v2.0.61 by Absolut & K1lly0u
+11:34 [Info] Loaded plugin Image Library v2.0.61 by Absolut & K1lly0u
+11:34 [Info] Unloaded plugin LabsLogo v1.0.0 by Frizen
+11:34 [Info] Loaded plugin LabsLogo v1.0.0 by Frizen
+11:35 [Info] Unloaded plugin Image Library v2.0.61 by Absolut & K1lly0u
+11:35 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+11:35 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+11:35 [Info] ImageLibrary was compiled successfully in 1230ms
+11:35 [Warning] Calling 'OnServerInitialized' on 'ImageLibrary v2.0.48' took 462ms
+11:35 [Info] Loaded plugin Image Library v2.0.48 by Absolut & K1lly0u
+11:35 [Info] Unloaded plugin LabsLogo v1.0.0 by Frizen
+11:35 [Info] Loaded plugin LabsLogo v1.0.0 by Frizen
+11:35 [Info] EventRandomizer was compiled successfully in 954ms
+11:35 [Warning] [Event Randomizer] Next Patrol Helicopter spawns in 1 ч. 57 мин. 4 сек.
+11:35 [Warning] [Event Randomizer] Next Chinook Helicopter spawns in 2 ч. 5 мин. 58 сек.
+11:35 [Warning] [Event Randomizer] Next Bradley spawns in 1 ч.
+11:35 [Warning] [Event Randomizer] Next Cargo Ship spawns in 2 ч. 52 мин. 57 сек.
+11:35 [Warning] [Event Randomizer] Next Airdrop spawns in 1 ч.
+11:35 [Info] Loaded plugin Event Randomizer v0.3.4 by mvrb
+11:50 [Info] LabsLogo was compiled successfully in 4059ms
+11:50 [Info] Unloaded plugin LabsLogo v1.0.0 by Frizen
+11:50 [Warning] Calling 'OnServerInitialized' on 'LabsLogo v1.0.0' took 3531ms
+11:50 [Info] Loaded plugin LabsLogo v1.0.0 by Frizen
+11:50 [Warning] Calling 'OnPluginUnloaded' on 'LabsLogo v1.0.0' took average 3531ms
+11:50 [Info] Unloaded plugin Event Randomizer v0.3.4 by mvrb
+11:50 [Warning] [Event Randomizer] Next Patrol Helicopter spawns in 1 ч. 12 мин. 19 сек.
+11:50 [Warning] [Event Randomizer] Next Chinook Helicopter spawns in 2 ч. 30 мин. 18 сек.
+11:50 [Warning] [Event Randomizer] Next Bradley spawns in 1 ч.
+11:50 [Warning] [Event Randomizer] Next Cargo Ship spawns in 2 ч. 14 мин. 33 сек.
+11:50 [Warning] [Event Randomizer] Next Airdrop spawns in 1 ч.
+11:50 [Info] Loaded plugin Event Randomizer v0.3.4 by mvrb
+12:36 [Warning] Calling 'CmdConsoleMain' on 'UIKits v1.0.0' took 104ms
+12:38 [Info] UIKits was compiled successfully in 3640ms
+12:38 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+12:38 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+12:38 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 1130ms
+12:38 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+12:38 [Info] [Image Library] Starting order UIKits
+12:38 [Info] UIKits was compiled successfully in 666ms
+12:38 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+12:38 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+12:38 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 136ms
+12:38 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+12:40 [Info] [Image Library] Starting order UIKits
+12:41 [Error] Error while compiling: UIKits.cs(1013,37): error CS0103: The name `firstContainer' does not exist in the current context
+12:41 [Error] Error while compiling: UIKits.cs(1013,37): error CS0103: The name `firstContainer' does not exist in the current context
+12:43 [Error] Error while compiling: UIKits.cs(421,17): error CS0103: The name `MainUI' does not exist in the current context
+12:43 [Error] Error while compiling: UIKits.cs(421,17): error CS0103: The name `MainUI' does not exist in the current context
+12:44 [Info] UIKits was compiled successfully in 400ms
+12:44 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+12:44 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+12:44 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 497ms
+12:44 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+12:44 [Info] [Image Library] Starting order UIKits
+12:46 [Warning] Calling 'KitFunctional' on 'UIKits v1.0.0' took 319ms
+12:46 [Warning] Calling 'CmdConsoleMain' on 'UIKits v1.0.0' took 115ms
+12:48 [Warning] [DEBUG] Reload requested for plugin which is already loading: UIKits
+12:48 [Info] UIKits was compiled successfully in 3609ms
+12:48 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+12:48 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+12:48 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 522ms
+12:48 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+12:48 [Info] [Image Library] Starting order UIKits
+12:48 [Warning] Calling 'CmdConsoleMain' on 'UIKits v1.0.0' took 104ms
+12:50 [Warning] [Event Randomizer] An Airdrop has been spawned.
+12:50 [Info] [Event Randomizer] Launch Site not found!
+14:18 [Info] Loading Oxide Core v2.0.4048...
+14:18 [Info] Loading extensions...
+14:18 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+14:18 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+14:18 [Info] Loaded extension Rust v2.0.0 by Oxide Team and Contributors
+14:18 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+14:18 [Info] Unity version: 2019.4.7f1
+14:18 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+14:19 [Error] Could not check for update to Compiler.exe
+14:19 [Error] The remote server returned an error: (522) .
+14:19 [Info] Using Covalence provider for game 'Rust'
+14:19 [Info] Loading plugins...
+14:19 [Info] Loaded plugin Rust v2.0.0 by Oxide Team and Contributors
+14:19 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+14:19 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+14:19 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+14:19 [Error] Plugin filename UIKits — копия (2).cs must match the main class UIKits (should be UIKits.cs)
+14:19 [Error] Plugin filename UIKits — копия.cs must match the main class UIKits (should be UIKits.cs)
+14:19 [Info] EventRandomizer, ImageLibrary, LabsLogo, NoSteamDevRust and UIKits were compiled successfully in 0ms
+14:19 [Info] Loaded plugin Event Randomizer v0.3.4 by mvrb
+14:19 [Info] Loaded plugin Image Library v2.0.48 by Absolut & K1lly0u
+14:19 [Info] Loaded plugin LabsLogo v1.0.0 by Frizen
+14:19 [Info] Loaded plugin AutoInsecure v1.0.0 by Zirper
+14:19 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+14:22 [Info] IP address from Steam query: 0.0.0.0
+14:22 [Warning] [Event Randomizer] Next Patrol Helicopter spawns in 1 ч. 44 мин. 15 сек.
+14:22 [Warning] [Event Randomizer] Next Chinook Helicopter spawns in 2 ч. 58 мин. 48 сек.
+14:22 [Warning] [Event Randomizer] Next Bradley spawns in 1 ч.
+14:22 [Warning] [Event Randomizer] Next Cargo Ship spawns in 2 ч. 46 мин. 12 сек.
+14:22 [Warning] [Event Randomizer] Next Airdrop spawns in 1 ч.
+14:22 [Warning] Calling 'OnServerInitialized' on 'LabsLogo v1.0.0' took 120ms
+14:22 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+14:22 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 164ms
+14:22 [Info] [Image Library] Starting order UIKits
+14:22 [Info] EventRandomizer was compiled successfully in 3220ms
+14:22 [Info] Unloaded plugin Event Randomizer v0.3.4 by mvrb
+14:22 [Warning] [Event Randomizer] Next Patrol Helicopter spawns in 1 ч. 37 мин. 27 сек.
+14:22 [Warning] [Event Randomizer] Next Chinook Helicopter spawns in 3 ч. 15 мин. 29 сек.
+14:22 [Warning] [Event Randomizer] Next Bradley spawns in 1 ч.
+14:22 [Warning] [Event Randomizer] Next Cargo Ship spawns in 2 ч. 49 мин. 40 сек.
+14:22 [Warning] [Event Randomizer] Next Airdrop spawns in 1 ч.
+14:22 [Info] Loaded plugin Event Randomizer v0.3.4 by mvrb
+14:27 [Info] UIKits was compiled successfully in 2195ms
+14:27 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+14:27 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+14:27 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 279ms
+14:27 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+14:27 [Info] [Image Library] Starting order UIKits
+14:27 [Info] UIKits was compiled successfully in 146ms
+14:27 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+14:27 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+14:27 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+14:27 [Info] UIKits was compiled successfully in 693ms
+14:27 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+14:27 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+14:27 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+14:29 [Info] [Image Library] Starting order UIKits
+14:29 [Info] UIKits was compiled successfully in 4206ms
+14:29 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+14:29 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+14:29 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 136ms
+14:29 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+14:30 [Info] UIKits was compiled successfully in 607ms
+14:30 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+14:30 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+14:30 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+14:30 [Info] UIKits was compiled successfully in 569ms
+14:30 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+14:30 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+14:30 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+14:31 [Info] [Image Library] Starting order UIKits
+14:31 [Info] UIKits was compiled successfully in 739ms
+14:31 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+14:31 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+14:31 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+14:31 [Info] UIKits was compiled successfully in 671ms
+14:31 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+14:31 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+14:31 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+14:33 [Info] [Image Library] Starting order UIKits
+14:35 [Info] [Image Library] Starting order UIKits
+14:37 [Info] [Image Library] Starting order UIKits
+14:38 [Info] [Image Library] Starting order UIKits
+14:40 [Info] [Image Library] Starting order UIKits
+21:16 [Info] Loading Oxide Core v2.0.4048...
+21:16 [Info] Loading extensions...
+21:16 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+21:16 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+21:16 [Info] Loaded extension Rust v2.0.0 by Oxide Team and Contributors
+21:16 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+21:16 [Info] Unity version: 2019.4.7f1
+21:16 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+21:16 [Error] Could not check for update to Compiler.exe
+21:16 [Error] The remote server returned an error: (522) .
+21:16 [Info] Using Covalence provider for game 'Rust'
+21:16 [Info] Loading plugins...
+21:16 [Info] Loaded plugin Rust v2.0.0 by Oxide Team and Contributors
+21:16 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+21:16 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+21:16 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+21:16 [Error] Plugin filename UIKits — копия (2).cs must match the main class UIKits (should be UIKits.cs)
+21:16 [Error] Plugin filename UIKits — копия.cs must match the main class UIKits (should be UIKits.cs)
+21:16 [Info] EventRandomizer, ImageLibrary, LabsLogo, NoSteamDevRust and UIKits were compiled successfully in 0ms
+21:16 [Info] Loaded plugin Event Randomizer v0.3.4 by mvrb
+21:16 [Info] Loaded plugin Image Library v2.0.48 by Absolut & K1lly0u
+21:16 [Info] Loaded plugin LabsLogo v1.0.0 by Frizen
+21:16 [Info] Loaded plugin AutoInsecure v1.0.0 by Zirper
+21:16 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+21:17 [Info] IP address from Steam query: 0.0.0.0
+21:17 [Warning] [Event Randomizer] Next Patrol Helicopter spawns in 1 ч. 16 мин. 38 сек.
+21:17 [Warning] [Event Randomizer] Next Chinook Helicopter spawns in 3 ч. 57 мин. 9 сек.
+21:17 [Warning] [Event Randomizer] Next Bradley spawns in 1 ч.
+21:17 [Warning] [Event Randomizer] Next Cargo Ship spawns in 2 ч. 32 мин. 24 сек.
+21:17 [Warning] [Event Randomizer] Next Airdrop spawns in 1 ч.
+21:17 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+21:17 [Info] [Image Library] Starting order UIKits
+21:18 [Info] EventRandomizer was compiled successfully in 1894ms
+21:18 [Info] Unloaded plugin Event Randomizer v0.3.4 by mvrb
+21:18 [Warning] [Event Randomizer] Next Patrol Helicopter spawns in 1 ч. 26 мин. 42 сек.
+21:18 [Warning] [Event Randomizer] Next Chinook Helicopter spawns in 3 ч. 5 мин. 29 сек.
+21:18 [Warning] [Event Randomizer] Next Bradley spawns in 1 ч.
+21:18 [Warning] [Event Randomizer] Next Cargo Ship spawns in 2 ч. 40 мин. 56 сек.
+21:18 [Warning] [Event Randomizer] Next Airdrop spawns in 1 ч.
+21:18 [Info] Loaded plugin Event Randomizer v0.3.4 by mvrb
+21:19 [Error] Error while compiling: IQChat.cs(899,12): error CS1525: Unexpected symbol `}'
+21:29 [Error] Error while compiling: IQChat.cs(899,12): error CS1525: Unexpected symbol `}'
+21:30 [Error] Error while compiling: IQChat.cs(899,12): error CS1525: Unexpected symbol `}'
+21:30 [Error] Error while compiling: IQChat.cs(899,12): error CS1525: Unexpected symbol `}'
+21:34 [Warning] Waiting for another application to stop using script: IQChat
+21:34 [Warning] [DEBUG] Load requested for plugin which is already loading: IQChat
+21:34 [Error] Error while compiling: IQChat.cs(892,16): error CS1525: Unexpected symbol `const'
+21:34 [Error] Error while compiling: IQChat.cs(892,16): error CS1525: Unexpected symbol `const'
+21:35 [Error] Error while compiling: IQChat.cs(892,16): error CS1525: Unexpected symbol `const'
+21:35 [Error] Error while compiling: IQChat.cs(892,16): error CS1525: Unexpected symbol `const'
+21:36 [Error] Error while compiling: IQChat.cs(892,16): error CS1525: Unexpected symbol `const'
+21:37 [Error] Error while compiling: IQChat.cs(899,12): error CS1525: Unexpected symbol `}'
+21:37 [Error] Error while compiling: IQChat.cs(899,12): error CS1525: Unexpected symbol `}'
+21:45 [Error] Plugin filename UIKits — копия.cs must match the main class UIKits (should be UIKits.cs)
+21:47 [Info] UIKits was compiled successfully in 2218ms
+21:47 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+21:47 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+21:47 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 239ms
+21:47 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+21:47 [Info] [Image Library] Starting order UIKits
+21:47 [Info] UIKits was compiled successfully in 1473ms
+21:47 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+21:47 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+21:47 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 217ms
+21:47 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+21:47 [Info] UIKits was compiled successfully in 831ms
+21:47 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+21:47 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+21:47 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 102ms
+21:47 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+21:47 [Info] UIKits was compiled successfully in 609ms
+21:47 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+21:47 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+21:47 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+21:47 [Warning] Calling 'KitFunctional' on 'UIKits v1.0.0' took 116ms
+21:47 [Info] UIKits was compiled successfully in 1026ms
+21:47 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+21:47 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+21:47 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+21:48 [Info] UIKits was compiled successfully in 1327ms
+21:48 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+21:48 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+21:48 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+21:49 [Info] UIKits was compiled successfully in 1438ms
+21:49 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+21:49 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsvipo.use' (by plugin 'UIKits')
+21:49 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+21:49 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 444ms
+21:49 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+21:51 [Info] UIKits was compiled successfully in 3033ms
+21:51 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+21:51 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsvipo.use' (by plugin 'UIKits')
+21:51 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+21:51 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 241ms
+21:51 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+21:51 [Info] UIKits was compiled successfully in 506ms
+21:51 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+21:51 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsvipo.use' (by plugin 'UIKits')
+21:51 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+21:51 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+21:52 [Info] [Image Library] Starting order UIKits
+21:53 [Info] UIKits was compiled successfully in 3134ms
+21:53 [Warning] Calling 'Unload' on 'UIKits v1.0.0' took 118ms
+21:53 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+21:53 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsvipo.use' (by plugin 'UIKits')
+21:53 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+21:53 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 682ms
+21:53 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+21:53 [Warning] [DEBUG] Reload requested for plugin which is already loading: UIKits
+21:53 [Info] UIKits was compiled successfully in 853ms
+21:53 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+21:53 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsvipo.use' (by plugin 'UIKits')
+21:53 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+21:53 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 109ms
+21:53 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+21:53 [Warning] Calling 'KitFunctional' on 'UIKits v1.0.0' took 158ms
+21:56 [Info] UIKits was compiled successfully in 4222ms
+21:56 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+21:56 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsvipo.use' (by plugin 'UIKits')
+21:56 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+21:56 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 428ms
+21:56 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+21:57 [Warning] [DEBUG] Reload requested for plugin which is already loading: UIKits
+21:57 [Info] UIKits was compiled successfully in 1046ms
+21:57 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+21:57 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsvipo.use' (by plugin 'UIKits')
+21:57 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+21:57 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 211ms
+21:57 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+21:57 [Info] UIKits was compiled successfully in 1167ms
+21:57 [Warning] Calling 'Unload' on 'UIKits v1.0.0' took 156ms
+21:57 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+21:57 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsvipo.use' (by plugin 'UIKits')
+21:57 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+21:57 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 365ms
+21:57 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+21:57 [Warning] [DEBUG] Reload requested for plugin which is already loading: UIKits
+21:57 [Info] UIKits was compiled successfully in 1196ms
+21:57 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+21:57 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsvipo.use' (by plugin 'UIKits')
+21:57 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+21:57 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 429ms
+21:57 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+21:57 [Info] UIKits was compiled successfully in 999ms
+21:57 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+21:57 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsvipo.use' (by plugin 'UIKits')
+21:57 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+21:57 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+21:58 [Info] UIKits was compiled successfully in 3062ms
+21:58 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+21:58 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsvipo.use' (by plugin 'UIKits')
+21:58 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+21:58 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 336ms
+21:58 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+21:59 [Warning] [DEBUG] Reload requested for plugin which is already loading: UIKits
+21:59 [Info] UIKits was compiled successfully in 732ms
+21:59 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+21:59 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsvipo.use' (by plugin 'UIKits')
+21:59 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+21:59 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+21:59 [Info] [Image Library] Starting order UIKits
+21:59 [Info] UIKits was compiled successfully in 1378ms
+21:59 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+21:59 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsvipo.use' (by plugin 'UIKits')
+21:59 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+21:59 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 288ms
+21:59 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+21:59 [Info] UIKits was compiled successfully in 697ms
+21:59 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+21:59 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsvipo.use' (by plugin 'UIKits')
+21:59 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+21:59 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 149ms
+21:59 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+22:00 [Info] UIKits was compiled successfully in 585ms
+22:00 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+22:00 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsvipo.use' (by plugin 'UIKits')
+22:00 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+22:00 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 118ms
+22:00 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+22:00 [Info] UIKits was compiled successfully in 1405ms
+22:00 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+22:00 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsvipo.use' (by plugin 'UIKits')
+22:00 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+22:00 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 228ms
+22:00 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+22:01 [Info] UIKits was compiled successfully in 2127ms
+22:01 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+22:01 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 290ms
+22:01 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+22:02 [Warning] Calling 'KitFunctional' on 'UIKits v1.0.0' took 101ms
+22:03 [Info] [Image Library] Starting order UIKits
+22:05 [Info] UIKits was compiled successfully in 2550ms
+22:05 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+22:05 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsd.use' (by plugin 'UIKits')
+22:05 [Warning] Missing plugin name prefix 'uikits' for permission 'kitse.use' (by plugin 'UIKits')
+22:05 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+22:05 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 396ms
+22:05 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+22:06 [Error] Error while compiling: UIKits.cs(1339,131): error CS0031: Constant value `10.5' cannot be converted to a `int'
+22:07 [Error] Error while compiling: UIKits.cs(1339,131): error CS0031: Constant value `10.5' cannot be converted to a `int'
+22:07 [Error] Error while compiling: UIKits.cs(1339,144): error CS0031: Constant value `10.5' cannot be converted to a `int'
+22:07 [Error] Error while compiling: UIKits.cs(1339,144): error CS0031: Constant value `10.5' cannot be converted to a `int'
+22:08 [Error] Error while compiling: UIKits.cs(1339,144): error CS0031: Constant value `10.5' cannot be converted to a `int'
+22:08 [Warning] [DEBUG] Reload requested for plugin which is already loading: UIKits
+22:09 [Info] UIKits was compiled successfully in 1976ms
+22:09 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+22:09 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsd.use' (by plugin 'UIKits')
+22:09 [Warning] Missing plugin name prefix 'uikits' for permission 'kitse.use' (by plugin 'UIKits')
+22:09 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+22:09 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 539ms
+22:09 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+22:09 [Info] [Image Library] Starting order UIKits
+22:09 [Error] Plugin filename UIKits — копия (2).cs must match the main class UIKits (should be UIKits.cs)
+22:10 [Error] Plugin filename UIKitsв1спривелеготображ.cs must match the main class UIKits (should be UIKits.cs)
+22:10 [Warning] [DEBUG] Reload requested for plugin which is already loading: UIKits
+22:10 [Info] UIKits was compiled successfully in 3644ms
+22:10 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+22:10 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsd.use' (by plugin 'UIKits')
+22:10 [Warning] Missing plugin name prefix 'uikits' for permission 'kitse.use' (by plugin 'UIKits')
+22:10 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+22:10 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 366ms
+22:10 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+22:10 [Info] UIKits was compiled successfully in 695ms
+22:10 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+22:10 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsd.use' (by plugin 'UIKits')
+22:10 [Warning] Missing plugin name prefix 'uikits' for permission 'kitse.use' (by plugin 'UIKits')
+22:10 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+22:10 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+22:11 [Info] UIKits was compiled successfully in 590ms
+22:11 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+22:11 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsd.use' (by plugin 'UIKits')
+22:11 [Warning] Missing plugin name prefix 'uikits' for permission 'kitse.use' (by plugin 'UIKits')
+22:11 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+22:11 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+22:11 [Warning] Calling 'KitFunctional' on 'UIKits v1.0.0' took 107ms
+22:12 [Info] UIKits was compiled successfully in 736ms
+22:12 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+22:12 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsd.use' (by plugin 'UIKits')
+22:12 [Warning] Missing plugin name prefix 'uikits' for permission 'kitse.use' (by plugin 'UIKits')
+22:12 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+22:12 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 154ms
+22:12 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+22:12 [Info] UIKits was compiled successfully in 858ms
+22:12 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+22:12 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsd.use' (by plugin 'UIKits')
+22:12 [Warning] Missing plugin name prefix 'uikits' for permission 'kitse.use' (by plugin 'UIKits')
+22:12 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+22:12 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 116ms
+22:12 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+22:12 [Warning] Calling 'KitFunctional' on 'UIKits v1.0.0' took 107ms
+22:13 [Info] [Image Library] Starting order UIKits
+22:13 [Warning] [DEBUG] Reload requested for plugin which is already loading: UIKits
+22:13 [Info] UIKits was compiled successfully in 5158ms
+22:13 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+22:13 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsd.use' (by plugin 'UIKits')
+22:13 [Warning] Missing plugin name prefix 'uikits' for permission 'kitse.use' (by plugin 'UIKits')
+22:13 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+22:13 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 722ms
+22:13 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+22:15 [Info] UIKits was compiled successfully in 3418ms
+22:15 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+22:15 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsd.use' (by plugin 'UIKits')
+22:15 [Warning] Missing plugin name prefix 'uikits' for permission 'kitse.use' (by plugin 'UIKits')
+22:15 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+22:15 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+22:15 [Warning] Calling 'KitFunctional' on 'UIKits v1.0.0' took 173ms
+22:16 [Info] UIKits was compiled successfully in 4078ms
+22:16 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+22:16 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsd.use' (by plugin 'UIKits')
+22:16 [Warning] Missing plugin name prefix 'uikits' for permission 'kitse.use' (by plugin 'UIKits')
+22:16 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+22:16 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 338ms
+22:16 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+22:17 [Info] UIKits was compiled successfully in 740ms
+22:17 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+22:17 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsd.use' (by plugin 'UIKits')
+22:17 [Warning] Missing plugin name prefix 'uikits' for permission 'kitse.use' (by plugin 'UIKits')
+22:17 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+22:17 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 132ms
+22:17 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+22:17 [Info] [Image Library] Starting order UIKits
+22:17 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+22:17 [Error] Plugin filename UIKitsв1спривелеготображ — копия.cs must match the main class UIKits (should be UIKits.cs)
+22:17 [Info] UIKits was compiled successfully in 1580ms
+22:18 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsd.use' (by plugin 'UIKits')
+22:18 [Warning] Missing plugin name prefix 'uikits' for permission 'kitse.use' (by plugin 'UIKits')
+22:18 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+22:18 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 1147ms
+22:18 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+22:18 [Warning] Calling 'KitFunctional' on 'UIKits v1.0.0' took 137ms
+22:18 [Warning] [Event Randomizer] An Airdrop has been spawned.
+22:18 [Info] [Event Randomizer] Launch Site not found!
+22:21 [Info] [Image Library] Starting order UIKits
+22:23 [Warning] [DEBUG] Load requested for plugin which is already loading: IQReportSystem
+22:23 [Info] IQReportSystem was compiled successfully in 4866ms
+22:23 [Warning] [IQReportSystem] Языковой файл загружен успешно
+22:23 [Warning] Calling 'LoadDefaultMessages' on 'IQReportSystem v0.2.5' took 129ms
+22:23 [Warning] Calling 'OnServerInitialized' on 'IQReportSystem v0.2.5' took 243ms [GARBAGE COLLECT]
+22:23 [Info] Loaded plugin IQReportSystem v0.2.5 by Mercury
+22:25 [Info] [Image Library] Starting order UIKits
+22:27 [Warning] Calling 'ReportChatCommand' on 'IQReportSystem v0.2.5' took 173ms
+22:28 [Warning] Calling 'Unload' on 'IQReportSystem v0.2.5' took 164ms
+22:28 [Info] Unloaded plugin IQReportSystem v0.2.5 by Mercury
+22:28 [Warning] Calling 'CmdConsoleMain' on 'UIKits v1.0.0' took 239ms
+22:29 [Info] [Image Library] Starting order UIKits
+22:31 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+22:31 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsd.use' (by plugin 'UIKits')
+22:31 [Warning] Missing plugin name prefix 'uikits' for permission 'kitse.use' (by plugin 'UIKits')
+22:31 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+22:31 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+22:32 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+22:32 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsd.use' (by plugin 'UIKits')
+22:32 [Warning] Missing plugin name prefix 'uikits' for permission 'kitse.use' (by plugin 'UIKits')
+22:32 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+22:32 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+22:32 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+22:32 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsd.use' (by plugin 'UIKits')
+22:32 [Warning] Missing plugin name prefix 'uikits' for permission 'kitse.use' (by plugin 'UIKits')
+22:32 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+22:32 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+22:33 [Info] [Image Library] Starting order UIKits
+22:35 [Info] UIKits was compiled successfully in 3621ms
+22:35 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+22:35 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsd.use' (by plugin 'UIKits')
+22:35 [Warning] Missing plugin name prefix 'uikits' for permission 'kitse.use' (by plugin 'UIKits')
+22:35 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+22:35 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 711ms
+22:35 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+22:35 [Info] UIKits was compiled successfully in 559ms
+22:35 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+22:35 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsd.use' (by plugin 'UIKits')
+22:35 [Warning] Missing plugin name prefix 'uikits' for permission 'kitse.use' (by plugin 'UIKits')
+22:35 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+22:35 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 118ms
+22:35 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+22:35 [Info] UIKits was compiled successfully in 439ms
+22:35 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+22:35 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsd.use' (by plugin 'UIKits')
+22:35 [Warning] Missing plugin name prefix 'uikits' for permission 'kitse.use' (by plugin 'UIKits')
+22:35 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+22:35 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 135ms
+22:35 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+22:35 [Info] UIKits was compiled successfully in 730ms
+22:35 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+22:35 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsd.use' (by plugin 'UIKits')
+22:35 [Warning] Missing plugin name prefix 'uikits' for permission 'kitse.use' (by plugin 'UIKits')
+22:35 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+22:35 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 102ms
+22:35 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+22:36 [Warning] Calling 'KitFunctional' on 'UIKits v1.0.0' took 112ms
+22:37 [Info] [Image Library] Starting order UIKits
+22:37 [Error] Plugin filename UIKitsв1спривелеготображ — копия.cs must match the main class UIKits (should be UIKits.cs)
+22:37 [Error] Plugin filename UIKits — копия (2).cs must match the main class UIKits (should be UIKits.cs)
+22:37 [Error] Plugin filename UIKits1лйшк.cs must match the main class UIKits (should be UIKits.cs)
+22:38 [Info] UIKits was compiled successfully in 2296ms
+22:38 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+22:38 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsd.use' (by plugin 'UIKits')
+22:38 [Warning] Missing plugin name prefix 'uikits' for permission 'kitse.use' (by plugin 'UIKits')
+22:38 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+22:38 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 433ms
+22:38 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+22:38 [Info] UIKits was compiled successfully in 681ms
+22:38 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+22:38 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsd.use' (by plugin 'UIKits')
+22:38 [Warning] Missing plugin name prefix 'uikits' for permission 'kitse.use' (by plugin 'UIKits')
+22:38 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+22:38 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 132ms
+22:38 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+22:38 [Info] UIKits was compiled successfully in 599ms
+22:38 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+22:38 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsd.use' (by plugin 'UIKits')
+22:38 [Warning] Missing plugin name prefix 'uikits' for permission 'kitse.use' (by plugin 'UIKits')
+22:38 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+22:38 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 106ms
+22:38 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+22:40 [Info] UIKits was compiled successfully in 3280ms
+22:40 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+22:40 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsd.use' (by plugin 'UIKits')
+22:40 [Warning] Missing plugin name prefix 'uikits' for permission 'kitse.use' (by plugin 'UIKits')
+22:40 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+22:40 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 358ms
+22:40 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+22:40 [Info] UIKits was compiled successfully in 710ms
+22:40 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+22:40 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsd.use' (by plugin 'UIKits')
+22:40 [Warning] Missing plugin name prefix 'uikits' for permission 'kitse.use' (by plugin 'UIKits')
+22:40 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+22:40 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 140ms
+22:40 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+22:41 [Warning] Calling 'KitFunctional' on 'UIKits v1.0.0' took 182ms
+22:41 [Info] [Image Library] Starting order UIKits
+22:42 [Info] UIKits was compiled successfully in 3731ms
+22:42 [Warning] Calling 'Unload' on 'UIKits v1.0.0' took 130ms
+22:42 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+22:42 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsd.use' (by plugin 'UIKits')
+22:42 [Warning] Missing plugin name prefix 'uikits' for permission 'kitse.use' (by plugin 'UIKits')
+22:42 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+22:42 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 1039ms
+22:42 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+22:42 [Info] UIKits was compiled successfully in 991ms
+22:42 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+22:42 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsd.use' (by plugin 'UIKits')
+22:42 [Warning] Missing plugin name prefix 'uikits' for permission 'kitse.use' (by plugin 'UIKits')
+22:42 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+22:42 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 157ms
+22:42 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+22:42 [Warning] Calling 'KitFunctional' on 'UIKits v1.0.0' took 120ms
+22:43 [Info] UIKits was compiled successfully in 1540ms
+22:43 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+22:43 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsd.use' (by plugin 'UIKits')
+22:43 [Warning] Missing plugin name prefix 'uikits' for permission 'kitse.use' (by plugin 'UIKits')
+22:43 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+22:43 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 466ms
+22:43 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+22:44 [Warning] [DEBUG] Reload requested for plugin which is already loading: UIKits
+22:44 [Info] UIKits was compiled successfully in 953ms
+22:44 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+22:44 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsd.use' (by plugin 'UIKits')
+22:44 [Warning] Missing plugin name prefix 'uikits' for permission 'kitse.use' (by plugin 'UIKits')
+22:44 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+22:44 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+22:44 [Warning] Calling 'OnServerSave' on 'UIKits v1.0.0' took 202ms
+22:44 [Warning] [Event Randomizer] A Patrol Helicopter has been spawned.
+22:45 [Warning] Calling 'KitFunctional' on 'UIKits v1.0.0' took 177ms
+22:45 [Info] UIKits was compiled successfully in 2847ms
+22:45 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+22:45 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsd.use' (by plugin 'UIKits')
+22:45 [Warning] Missing plugin name prefix 'uikits' for permission 'kitse.use' (by plugin 'UIKits')
+22:45 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+22:45 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 482ms
+22:45 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+22:45 [Info] UIKits was compiled successfully in 1323ms
+22:45 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+22:45 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsd.use' (by plugin 'UIKits')
+22:45 [Warning] Missing plugin name prefix 'uikits' for permission 'kitse.use' (by plugin 'UIKits')
+22:45 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+22:45 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+22:45 [Info] [Image Library] Starting order UIKits
+22:47 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+22:48 [Info] UIKits was compiled successfully in 3577ms
+22:48 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsd.use' (by plugin 'UIKits')
+22:48 [Warning] Missing plugin name prefix 'uikits' for permission 'kitse.use' (by plugin 'UIKits')
+22:48 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+22:48 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 570ms
+22:48 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+22:48 [Info] UIKits was compiled successfully in 959ms
+22:48 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+22:48 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsd.use' (by plugin 'UIKits')
+22:48 [Warning] Missing plugin name prefix 'uikits' for permission 'kitse.use' (by plugin 'UIKits')
+22:48 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+22:48 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 109ms
+22:48 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+22:48 [Info] UIKits was compiled successfully in 337ms
+22:48 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+22:48 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsd.use' (by plugin 'UIKits')
+22:48 [Warning] Missing plugin name prefix 'uikits' for permission 'kitse.use' (by plugin 'UIKits')
+22:48 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+22:48 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+22:49 [Info] [Image Library] Starting order UIKits
+22:49 [Info] UIKits was compiled successfully in 703ms
+22:49 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+22:49 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsd.use' (by plugin 'UIKits')
+22:49 [Warning] Missing plugin name prefix 'uikits' for permission 'kitse.use' (by plugin 'UIKits')
+22:49 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+22:49 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 142ms
+22:49 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+22:50 [Info] UIKits was compiled successfully in 2901ms
+22:50 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+22:50 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsd.use' (by plugin 'UIKits')
+22:50 [Warning] Missing plugin name prefix 'uikits' for permission 'kitse.use' (by plugin 'UIKits')
+22:50 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+22:50 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 119ms
+22:50 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+22:52 [Info] UIKits was compiled successfully in 3923ms
+22:52 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+22:52 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsd.use' (by plugin 'UIKits')
+22:52 [Warning] Missing plugin name prefix 'uikits' for permission 'kitse.use' (by plugin 'UIKits')
+22:52 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+22:52 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 693ms
+22:52 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+22:52 [Info] UIKits was compiled successfully in 749ms
+22:52 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+22:52 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsd.use' (by plugin 'UIKits')
+22:52 [Warning] Missing plugin name prefix 'uikits' for permission 'kitse.use' (by plugin 'UIKits')
+22:52 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+22:52 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 129ms
+22:52 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+22:53 [Info] [Image Library] Starting order UIKits
+22:54 [Info] UIKits was compiled successfully in 3039ms
+22:54 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+22:54 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsd.use' (by plugin 'UIKits')
+22:54 [Warning] Missing plugin name prefix 'uikits' for permission 'kitse.use' (by plugin 'UIKits')
+22:54 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+22:54 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 122ms
+22:54 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+22:56 [Info] UIKits was compiled successfully in 2663ms
+22:56 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+22:56 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsd.use' (by plugin 'UIKits')
+22:56 [Warning] Missing plugin name prefix 'uikits' for permission 'kitse.use' (by plugin 'UIKits')
+22:56 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+22:56 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 117ms
+22:56 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+22:57 [Info] [Image Library] Starting order UIKits
+22:57 [Info] UIKits was compiled successfully in 2652ms
+22:57 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+22:57 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsd.use' (by plugin 'UIKits')
+22:57 [Warning] Missing plugin name prefix 'uikits' for permission 'kitse.use' (by plugin 'UIKits')
+22:57 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+22:57 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 103ms
+22:57 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+22:57 [Info] UIKits was compiled successfully in 510ms
+22:57 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+22:57 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsd.use' (by plugin 'UIKits')
+22:57 [Warning] Missing plugin name prefix 'uikits' for permission 'kitse.use' (by plugin 'UIKits')
+22:57 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+22:57 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 124ms
+22:57 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+22:57 [Info] UIKits was compiled successfully in 701ms
+22:57 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+22:57 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+22:58 [Warning] Calling 'KitFunctional' on 'UIKits v1.0.0' took 110ms
+22:59 [Warning] Calling 'KitFunctional' on 'UIKits v1.0.0' took 337ms
+22:59 [Warning] Calling 'KitFunctional' on 'UIKits v1.0.0' took 200ms
+23:00 [Info] [Image Library] Starting order UIKits
+23:01 [Info] UIKits was compiled successfully in 3369ms
+23:01 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:01 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:01 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:01 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:01 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 890ms
+23:01 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:03 [Warning] Calling 'KitFunctional' on 'UIKits v1.0.0' took 296ms
+23:04 [Info] UIKits was compiled successfully in 2848ms
+23:04 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:04 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:04 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:04 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:04 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 1486ms
+23:04 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:04 [Info] UIKits was compiled successfully in 786ms
+23:04 [Warning] Calling 'Unload' on 'UIKits v1.0.0' took average 1545ms
+23:04 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:04 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:04 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:04 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:04 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 143ms
+23:04 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:04 [Info] Group 'admin' granted permission 'kitsbonus.use'
+23:04 [Warning] Calling 'CmdConsoleMain' on 'UIKits v1.0.0' took 191ms
+23:04 [Info] [Image Library] Starting order UIKits
+23:05 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:06 [Info] UIKits was compiled successfully in 5037ms
+23:06 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:06 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:06 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:06 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 947ms
+23:06 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:06 [Info] UIKits was compiled successfully in 964ms
+23:06 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:06 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:06 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:06 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:06 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 186ms
+23:06 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:06 [Info] UIKits was compiled successfully in 681ms
+23:06 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:06 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:06 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:06 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:06 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 148ms
+23:06 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:07 [Info] UIKits was compiled successfully in 220ms
+23:07 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:07 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:07 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:07 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:07 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:08 [Warning] Calling 'KitFunctional' on 'UIKits v1.0.0' took 125ms
+23:08 [Warning] Calling 'CmdConsoleMain' on 'UIKits v1.0.0' took 114ms
+23:09 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:09 [Info] UIKits was compiled successfully in 2739ms
+23:09 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:09 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:09 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:09 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 587ms
+23:09 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:10 [Info] [Image Library] Starting order UIKits
+23:11 [Warning] Calling 'CmdConsoleMain' on 'UIKits v1.0.0' took 130ms
+23:12 [Error] Plugin filename UIKits — копия (2).cs must match the main class UIKits (should be UIKits.cs)
+23:12 [Error] Plugin filename UIKitsv1.cs must match the main class UIKits (should be UIKits.cs)
+23:13 [Info] UIKits was compiled successfully in 2243ms
+23:13 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:13 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:13 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:13 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:13 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 604ms
+23:13 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:13 [Info] UIKits was compiled successfully in 621ms
+23:13 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:13 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:13 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:13 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:13 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:14 [Warning] Calling 'KitFunctional' on 'UIKits v1.0.0' took 108ms
+23:14 [Info] [Image Library] Starting order UIKits
+23:14 [Info] UIKits was compiled successfully in 2713ms
+23:14 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:14 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:14 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:14 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:14 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 583ms
+23:14 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:15 [Info] UIKits was compiled successfully in 1058ms
+23:15 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:15 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:15 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:15 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:15 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 276ms
+23:15 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:15 [Info] UIKits was compiled successfully in 469ms
+23:15 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:15 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:15 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:15 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:15 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:16 [Warning] Calling 'KitFunctional' on 'UIKits v1.0.0' took 132ms
+23:17 [Warning] [DEBUG] Reload requested for plugin which is already loading: UIKits
+23:17 [Info] UIKits was compiled successfully in 3345ms
+23:17 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:17 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:17 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:17 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:17 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 538ms
+23:17 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:18 [Info] UIKits was compiled successfully in 746ms
+23:18 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:18 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:18 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:18 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:18 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 131ms
+23:18 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:18 [Info] UIKits was compiled successfully in 977ms
+23:18 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:18 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:18 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:18 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:18 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 119ms
+23:18 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:18 [Info] [Event Randomizer] Launch Site not found!
+23:18 [Warning] [Event Randomizer] An Airdrop has been spawned.
+23:18 [Info] [Image Library] Starting order UIKits
+23:19 [Info] UIKits was compiled successfully in 4374ms
+23:19 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:19 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:19 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:19 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:19 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 740ms
+23:19 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:19 [Info] UIKits was compiled successfully in 1365ms
+23:19 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:19 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:19 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:19 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:19 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 206ms
+23:19 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:20 [Info] UIKits was compiled successfully in 605ms
+23:20 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:20 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:20 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:20 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:20 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 510ms
+23:20 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:21 [Info] UIKits was compiled successfully in 595ms
+23:21 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:21 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:21 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:21 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:21 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 108ms
+23:21 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:21 [Warning] Calling 'KitFunctional' on 'UIKits v1.0.0' took 172ms
+23:22 [Info] UIKits was compiled successfully in 4822ms
+23:22 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:22 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:22 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:22 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:22 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 450ms
+23:22 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:22 [Warning] [DEBUG] Reload requested for plugin which is already loading: UIKits
+23:22 [Info] UIKits was compiled successfully in 645ms
+23:22 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:22 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:22 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:22 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:22 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 158ms
+23:22 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:22 [Info] UIKits was compiled successfully in 902ms
+23:22 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:22 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:22 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:22 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:22 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 187ms
+23:22 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:23 [Info] [Image Library] Starting order UIKits
+23:23 [Info] UIKits was compiled successfully in 856ms
+23:23 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:23 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:23 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:23 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:23 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 1488ms
+23:23 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:24 [Info] UIKits was compiled successfully in 1011ms
+23:24 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:24 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:24 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:24 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:24 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 227ms
+23:24 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:24 [Info] UIKits was compiled successfully in 485ms
+23:24 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:24 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:24 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:24 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:24 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 153ms
+23:24 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:26 [Warning] [DEBUG] Reload requested for plugin which is already loading: UIKits
+23:26 [Warning] [DEBUG] Reload requested for plugin which is already loading: UIKits
+23:26 [Info] UIKits was compiled successfully in 3166ms
+23:26 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:26 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:26 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:26 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:26 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 479ms
+23:26 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:26 [Info] UIKits was compiled successfully in 911ms
+23:26 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:26 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:26 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:26 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:26 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 220ms
+23:26 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:27 [Info] UIKits was compiled successfully in 720ms
+23:27 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:27 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:27 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:27 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:27 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 133ms
+23:27 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:27 [Info] [Image Library] Starting order UIKits
+23:27 [Warning] [DEBUG] Reload requested for plugin which is already loading: UIKits
+23:27 [Info] UIKits was compiled successfully in 2053ms
+23:27 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:27 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:27 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:27 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:27 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:27 [Info] UIKits was compiled successfully in 1500ms
+23:27 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:27 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:27 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:27 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:27 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 443ms
+23:27 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:28 [Info] UIKits was compiled successfully in 738ms
+23:28 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:28 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:28 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:28 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:28 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 180ms
+23:28 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:28 [Info] UIKits was compiled successfully in 881ms
+23:28 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:28 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:28 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:28 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:28 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 147ms
+23:28 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:28 [Info] UIKits was compiled successfully in 762ms
+23:28 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:28 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:28 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:28 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:28 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 163ms
+23:28 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:28 [Info] UIKits was compiled successfully in 664ms
+23:28 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:28 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:28 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:28 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:28 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 306ms
+23:28 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:29 [Info] UIKits was compiled successfully in 468ms
+23:29 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:29 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:29 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:29 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:29 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 270ms
+23:29 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:29 [Warning] Calling 'KitFunctional' on 'UIKits v1.0.0' took 116ms
+23:29 [Info] UIKits was compiled successfully in 1935ms
+23:29 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:29 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:29 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:29 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:29 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 595ms
+23:29 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:31 [Warning] [DEBUG] Reload requested for plugin which is already loading: UIKits
+23:31 [Info] UIKits was compiled successfully in 3450ms
+23:31 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:31 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:31 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:31 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:31 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 241ms
+23:31 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:31 [Info] [Image Library] Starting order UIKits
+23:32 [Info] UIKits was compiled successfully in 3153ms
+23:32 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:32 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:32 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:32 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:32 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 339ms
+23:32 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:32 [Info] UIKits was compiled successfully in 750ms
+23:32 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:32 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:32 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:32 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:32 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 182ms
+23:32 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:33 [Warning] Calling 'KitFunctional' on 'UIKits v1.0.0' took 117ms
+23:33 [Warning] [DEBUG] Reload requested for plugin which is already loading: UIKits
+23:33 [Info] UIKits was compiled successfully in 6266ms
+23:33 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:33 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:33 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:33 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:33 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 1251ms
+23:33 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:35 [Error] Error while compiling: UIKits.cs(1133,17): error CS0128: A local variable named `container' is already defined in this scope
+23:35 [Info] [Image Library] Starting order UIKits
+23:35 [Info] UIKits was compiled successfully in 1283ms
+23:35 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:35 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:35 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:35 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:35 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 219ms
+23:35 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:36 [Info] UIKits was compiled successfully in 779ms
+23:36 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:36 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:36 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:36 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:36 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 202ms
+23:36 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:37 [Warning] [DEBUG] Reload requested for plugin which is already loading: UIKits
+23:37 [Info] UIKits was compiled successfully in 5688ms
+23:37 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:37 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:37 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:37 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:37 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 1053ms
+23:37 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:37 [Error] Plugin filename UIKitsv1.cs must match the main class UIKits (should be UIKits.cs)
+23:37 [Warning] Calling 'KitFunctional' on 'UIKits v1.0.0' took 101ms
+23:38 [Info] UIKits was compiled successfully in 3778ms
+23:38 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:38 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:38 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:38 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:38 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 323ms
+23:38 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:38 [Info] UIKits was compiled successfully in 1067ms
+23:38 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:38 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:38 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:38 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:38 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 235ms
+23:38 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:39 [Info] UIKits was compiled successfully in 3456ms
+23:39 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:39 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:39 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:39 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:39 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 247ms
+23:39 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:39 [Info] UIKits was compiled successfully in 505ms
+23:39 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:39 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:39 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:39 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:39 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 317ms
+23:39 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:39 [Info] UIKits was compiled successfully in 942ms
+23:39 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:39 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:39 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:39 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:39 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 280ms
+23:39 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:39 [Info] UIKits was compiled successfully in 426ms
+23:39 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:39 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:39 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:39 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:39 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 294ms
+23:39 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:39 [Info] [Image Library] Starting order UIKits
+23:40 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:40 [Error] Could not load plugin 'Kits' (no plugin found with that file name)
+23:40 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:40 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:40 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:40 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:41 [Info] UIKits was compiled successfully in 3892ms
+23:41 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:41 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:41 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:41 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:41 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 487ms
+23:41 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:41 [Info] UIKits was compiled successfully in 597ms
+23:41 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:41 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:41 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:41 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:41 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 289ms
+23:41 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:41 [Info] UIKits was compiled successfully in 514ms
+23:41 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:41 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:41 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:41 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:41 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 428ms
+23:41 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:41 [Info] UIKits was compiled successfully in 611ms
+23:41 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:41 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:41 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:41 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:41 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 283ms [GARBAGE COLLECT]
+23:41 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:41 [Info] UIKits was compiled successfully in 869ms
+23:41 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:41 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:41 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:41 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:41 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 267ms
+23:41 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:42 [Info] UIKits was compiled successfully in 434ms
+23:42 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:42 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:42 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:42 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:42 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 101ms
+23:42 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:42 [Info] UIKits was compiled successfully in 721ms
+23:42 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:42 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:42 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:42 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:42 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 314ms
+23:42 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:42 [Info] UIKits was compiled successfully in 679ms
+23:42 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:42 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:42 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:42 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:42 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 348ms
+23:42 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:43 [Info] UIKits was compiled successfully in 518ms
+23:43 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:43 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:43 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:43 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:43 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 617ms [GARBAGE COLLECT]
+23:43 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:43 [Info] UIKits was compiled successfully in 2268ms
+23:43 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:43 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:43 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:43 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:43 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 257ms
+23:43 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:43 [Info] UIKits was compiled successfully in 505ms
+23:43 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:43 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:43 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:43 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:43 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 206ms
+23:43 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:43 [Info] UIKits was compiled successfully in 697ms
+23:43 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:43 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:43 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:43 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:43 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 294ms [GARBAGE COLLECT]
+23:43 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:43 [Info] [Image Library] Starting order UIKits
+23:43 [Info] UIKits was compiled successfully in 361ms
+23:43 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:43 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:43 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:43 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:43 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 260ms
+23:43 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:44 [Info] UIKits was compiled successfully in 520ms
+23:44 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:44 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:44 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:44 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:44 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 177ms [GARBAGE COLLECT]
+23:44 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:44 [Info] UIKits was compiled successfully in 492ms
+23:44 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:44 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:44 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:44 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:44 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 148ms
+23:44 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:44 [Info] UIKits was compiled successfully in 440ms
+23:44 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:44 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:44 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:44 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:44 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 194ms
+23:44 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:44 [Info] UIKits was compiled successfully in 864ms
+23:44 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:44 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:44 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:44 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:44 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 140ms
+23:44 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:45 [Info] UIKits was compiled successfully in 401ms
+23:45 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:45 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:45 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:45 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:45 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 271ms
+23:45 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:45 [Info] UIKits was compiled successfully in 536ms
+23:45 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:45 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:45 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:45 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:45 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 328ms [GARBAGE COLLECT]
+23:45 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:45 [Info] UIKits was compiled successfully in 1001ms
+23:45 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:45 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:45 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:45 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:45 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 149ms
+23:45 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:45 [Warning] Calling 'CmdConsoleMain' on 'UIKits v1.0.0' took 122ms
+23:45 [Info] UIKits was compiled successfully in 617ms
+23:45 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:45 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:45 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:45 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:45 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 166ms
+23:45 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:45 [Info] UIKits was compiled successfully in 498ms
+23:45 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:45 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:45 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:45 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:45 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 149ms
+23:45 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:45 [Info] UIKits was compiled successfully in 534ms
+23:45 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:45 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:45 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:45 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:45 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 219ms
+23:45 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:46 [Info] UIKits was compiled successfully in 597ms
+23:46 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:46 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:46 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:46 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:46 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 128ms [GARBAGE COLLECT]
+23:46 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:46 [Info] UIKits was compiled successfully in 1219ms
+23:46 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:46 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:46 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:46 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:46 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 186ms
+23:46 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:46 [Info] UIKits was compiled successfully in 1613ms
+23:46 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:46 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:46 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:46 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:46 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 238ms
+23:46 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:46 [Warning] [DEBUG] Reload requested for plugin which is already loading: UIKits
+23:46 [Info] UIKits was compiled successfully in 1637ms
+23:46 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:46 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:46 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:46 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:46 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 224ms [GARBAGE COLLECT]
+23:46 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:46 [Info] UIKits was compiled successfully in 546ms
+23:46 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:46 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:46 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:46 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:46 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 234ms
+23:46 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:46 [Info] UIKits was compiled successfully in 625ms
+23:46 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:46 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:46 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:46 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:46 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 246ms [GARBAGE COLLECT]
+23:46 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:47 [Info] UIKits was compiled successfully in 985ms
+23:47 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:47 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:47 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:47 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:47 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 192ms
+23:47 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:47 [Info] UIKits was compiled successfully in 357ms
+23:47 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:47 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:47 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:47 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:47 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 103ms
+23:47 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:47 [Info] UIKits was compiled successfully in 688ms
+23:47 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:47 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:47 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:47 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:47 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 190ms
+23:47 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:47 [Info] UIKits was compiled successfully in 586ms
+23:47 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:47 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:47 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:47 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:47 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 198ms
+23:47 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:47 [Info] UIKits was compiled successfully in 262ms
+23:47 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:47 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:47 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:47 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:47 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 134ms
+23:47 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:47 [Info] [Image Library] Starting order UIKits
+23:47 [Info] UIKits was compiled successfully in 810ms
+23:47 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:47 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:47 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:47 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:47 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 340ms
+23:47 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:47 [Info] UIKits was compiled successfully in 787ms
+23:47 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:47 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:47 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:47 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:47 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 190ms [GARBAGE COLLECT]
+23:47 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:47 [Info] UIKits was compiled successfully in 1048ms
+23:47 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:47 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:47 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:47 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:47 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 433ms
+23:47 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:48 [Info] UIKits was compiled successfully in 311ms
+23:48 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:48 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:48 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:48 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:48 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 218ms
+23:48 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:48 [Info] UIKits was compiled successfully in 480ms
+23:48 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:48 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:48 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:48 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:48 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 203ms
+23:48 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:48 [Info] UIKits was compiled successfully in 769ms
+23:48 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:48 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:48 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:48 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:48 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 318ms [GARBAGE COLLECT]
+23:48 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:48 [Info] UIKits was compiled successfully in 493ms
+23:48 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:48 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:48 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:48 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:48 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 213ms [GARBAGE COLLECT]
+23:48 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:49 [Warning] [Event Randomizer] A Patrol Helicopter has been spawned.
+23:49 [Info] UIKits was compiled successfully in 614ms
+23:49 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:49 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:49 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:49 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:49 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 177ms
+23:49 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:49 [Info] UIKits was compiled successfully in 353ms
+23:49 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:49 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:49 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:49 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:49 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 294ms
+23:49 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:49 [Info] UIKits was compiled successfully in 478ms
+23:49 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:49 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:49 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:49 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:49 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 144ms
+23:49 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:51 [Info] UIKits was compiled successfully in 5220ms
+23:51 [Warning] Calling 'Unload' on 'UIKits v1.0.0' took 102ms
+23:51 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:51 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:51 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:51 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:51 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 1142ms
+23:51 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:52 [Info] [Image Library] Starting order UIKits
+23:52 [Info] UIKits was compiled successfully in 857ms
+23:52 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:52 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:52 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:52 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:52 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 448ms
+23:52 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:52 [Info] UIKits was compiled successfully in 425ms
+23:52 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:52 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:52 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:52 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:52 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 344ms [GARBAGE COLLECT]
+23:52 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:52 [Error] Error while compiling: UIKits.cs(1370,142): error CS0266: Cannot implicitly convert type `double' to `int'. An explicit conversion exists (are you missing a cast?)
+23:53 [Error] Error while compiling: UIKits.cs(1370,145): error CS0747: Inconsistent `object initializer' member declaration
+23:53 [Error] Error while compiling: UIKits.cs(1370,142): error CS0031: Constant value `10.5' cannot be converted to a `int'
+23:53 [Error] Error while compiling: UIKits.cs(1370,142): error CS0031: Constant value `10.5' cannot be converted to a `int'
+23:54 [Info] UIKits was compiled successfully in 562ms
+23:54 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:54 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:54 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:54 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:54 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 427ms
+23:54 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:54 [Error] Error while compiling: UIKits.cs(1370,142): error CS0031: Constant value `10.5' cannot be converted to a `int'
+23:54 [Info] UIKits was compiled successfully in 553ms
+23:54 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:54 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:54 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:54 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:54 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 285ms
+23:54 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:54 [Warning] [DEBUG] Reload requested for plugin which is already loading: UIKits
+23:54 [Info] UIKits was compiled successfully in 417ms
+23:54 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:54 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:54 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:54 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:54 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 235ms
+23:54 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:54 [Info] UIKits was compiled successfully in 345ms
+23:54 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:55 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:55 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:55 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:55 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 138ms
+23:55 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:56 [Info] [Image Library] Starting order UIKits
+23:56 [Warning] Calling 'KitFunctional' on 'UIKits v1.0.0' took 130ms
+23:56 [Info] UIKits was compiled successfully in 3104ms
+23:56 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:56 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:56 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:56 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:56 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 1211ms
+23:56 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:57 [Info] UIKits was compiled successfully in 430ms
+23:57 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:57 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:57 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:57 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:57 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 156ms
+23:57 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:57 [Info] UIKits was compiled successfully in 341ms
+23:57 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:57 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:57 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:57 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:57 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 163ms
+23:57 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:57 [Info] UIKits was compiled successfully in 427ms
+23:57 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:57 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:57 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:57 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:57 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 122ms
+23:57 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:58 [Warning] Calling 'KitFunctional' on 'UIKits v1.0.0' took 453ms
+23:58 [Warning] Calling 'CmdConsoleMain' on 'UIKits v1.0.0' took 115ms
+23:59 [Warning] [Event Randomizer] A Cargo Ship has been spawned.
+23:59 [Error] Failed to call hook 'OnEntitySpawned' on plugin 'LabsLogo v1.0.0' (KeyNotFoundException: The given key was not present in the dictionary.)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.LabsLogo.OnEntitySpawned (BaseNetworkable entity) [0x00206] in <420343f96e90421ba0b7528a3e7fd8c6>:0 
+  at Oxide.Plugins.LabsLogo.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00212] in <420343f96e90421ba0b7528a3e7fd8c6>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e130131009984c9f85bca364a8a5a454>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d1a7dbb0435a4810a34b77f92cb88163>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d1a7dbb0435a4810a34b77f92cb88163>:0 
+23:59 [Info] UIKits was compiled successfully in 3052ms
+23:59 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:59 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:59 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:59 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:59 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 680ms
+23:59 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+23:59 [Info] UIKits was compiled successfully in 1060ms
+23:59 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+23:59 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+23:59 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+23:59 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+23:59 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 288ms
+23:59 [Info] Loaded plugin UIKits v1.0.0 by XAVIER

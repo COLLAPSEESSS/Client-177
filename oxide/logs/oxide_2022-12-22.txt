@@ -1,0 +1,702 @@
+17:52 [Info] Loading Oxide Core v2.0.4048...
+17:52 [Info] Loading extensions...
+17:52 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+17:52 [Info] [NoSteam] Author: Kaidoz
+ Telegram: Kaidoz
+ Github: github.com/Kaidoz/Rust-NoSteam
+17:52 [Info] Loaded extension NoSteam v1.2.0 by Kaidoz
+17:52 [Info] Loaded extension RustEdit v1.0.40 by k1lly0u
+17:52 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+17:52 [Info] Loaded extension Rust v2.0.0 by Oxide Team and Contributors
+17:52 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+17:52 [Info] Unity version: 2019.4.7f1
+17:52 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+17:52 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+17:52 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+17:52 [Info] Using Covalence provider for game 'Rust'
+17:52 [Info] Loading plugins...
+17:52 [Info] Loaded plugin RustEdit Automatic Updater v1.0.1 by Chaos
+17:52 [Info] Loaded plugin RustEdit Core v1.0.1 by Chaos
+17:52 [Info] Loaded plugin RustEdit Deployable Core v1.0.1 by Chaos
+17:52 [Info] Loaded plugin RustEdit IO Core v1.0.1 by Chaos
+17:52 [Info] Loaded plugin RustEdit Vending Core v1.0.1 by Chaos
+17:52 [Info] Loaded plugin RustEdit Loot Core v1.0.1 by Chaos
+17:52 [Info] Loaded plugin RustEdit Diesel Collectable Spawner v1.0.1 by Chaos
+17:52 [Info] Loaded plugin RustEdit Desk Keycard Spawner v1.0.1 by Chaos
+17:52 [Info] Loaded plugin RustEdit Resource Core v1.0.1 by Chaos
+17:52 [Info] Loaded plugin RustEdit JunkPile Core v1.0.1 by Chaos
+17:52 [Info] Loaded plugin RustEdit Spawn Core v1.0.1 by Chaos
+17:52 [Info] Loaded plugin RustEdit Ocean Path v1.0.1 by Chaos
+17:52 [Info] Loaded plugin RustEdit APC Core v1.0.1 by Chaos
+17:52 [Info] Loaded plugin RustEdit Vehicle Core v1.0.1 by Chaos
+17:52 [Info] Loaded plugin RustEdit NPC Core v1.0.1 by Chaos
+17:52 [Info] Loaded plugin RustEdit Excavator Rotation Correction v1.0.1 by Chaos
+17:52 [Info] Loaded plugin RustEdit Custom Topology Layers v1.0.1 by Chaos
+17:52 [Info] Loaded plugin Rust v2.0.0 by Oxide Team and Contributors
+17:52 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+17:52 [Info] Added '// Reference: EasyAntiCheat.Server' in plugin 'SEacChecker'
+17:52 [Info] Added '// Reference: Facepunch.Steamworks.Win64' in plugin 'SEacChecker'
+17:52 [Info] SEacChecker was compiled successfully in 0ms
+17:52 [Warning] SEacChecker has polluted the global namespace by defining STEAM_TOKENDATA
+17:52 [Warning] SEacChecker has polluted the global namespace by defining STEAM_SESSION
+17:52 [Warning] SEacChecker has polluted the global namespace by defining STEAM_TICKET
+17:52 [Warning] SEacChecker has polluted the global namespace by defining SteamTicket
+17:52 [Warning] SEacChecker has polluted the global namespace by defining NoSteamTicket
+17:52 [Warning] SEacChecker has polluted the global namespace by defining Tokens
+17:52 [Warning] SEacChecker has polluted the global namespace by defining SerializationExtension
+17:52 [Warning] SEacChecker has polluted the global namespace by defining UserData
+17:52 [Warning] SEacChecker has polluted the global namespace by defining Users
+17:52 [Info] Loaded plugin SEacChecker v1.0.0 by setfps
+17:52 [Info] Added '// Reference: EasyAntiCheat.Server' in plugin 'SEacChecker'
+17:52 [Info] Added '// Reference: Facepunch.Steamworks.Win64' in plugin 'SEacChecker'
+17:52 [Info] SEacChecker was compiled successfully in 0ms
+17:52 [Info] Unloaded plugin SEacChecker v1.0.0 by setfps
+17:52 [Warning] SEacChecker has polluted the global namespace by defining STEAM_TOKENDATA
+17:52 [Warning] SEacChecker has polluted the global namespace by defining STEAM_SESSION
+17:52 [Warning] SEacChecker has polluted the global namespace by defining STEAM_TICKET
+17:52 [Warning] SEacChecker has polluted the global namespace by defining SteamTicket
+17:52 [Warning] SEacChecker has polluted the global namespace by defining NoSteamTicket
+17:52 [Warning] SEacChecker has polluted the global namespace by defining Tokens
+17:52 [Warning] SEacChecker has polluted the global namespace by defining SerializationExtension
+17:52 [Warning] SEacChecker has polluted the global namespace by defining UserData
+17:52 [Warning] SEacChecker has polluted the global namespace by defining Users
+17:52 [Info] Loaded plugin SEacChecker v1.0.0 by setfps
+17:52 [Warning] [RustEdit] - No IO data found in map file
+17:52 [Warning] [RustEdit] - No vending data found in map file
+17:52 [Warning] [RustEdit] - No loot data found in map file
+17:52 [Warning] [RustEdit] - No APC path data found in map file
+17:52 [Warning] [RustEdit] - No vehicle data found in map file
+17:52 [Warning] [RustEdit] - No NPC data found in map file
+17:52 [Warning] [RustEdit] - No ocean patrol path data found in map file
+17:53 [Info] IP address from Steam query: 0.0.0.0
+17:53 [Info] [RustEdit] - Checking for updates...
+17:53 [Info] [RustEdit] - The RustEdit extension is up to date!
+17:53 [Info] [RustEdit] - No custom vending machines found in map
+17:53 [Info] [RustEdit] - 0 loot containers processed!
+17:53 [Info] [RustEdit] - 0 resource entities processed!
+17:53 [Info] [RustEdit] - 0 junkpiles processed!
+17:54 [Info] [SEacChecker] test111
+17:54 [Error] Failed to call hook 'OnConnectionApproved' on plugin 'SEacChecker v1.0.0' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Users.Get (Network.Connection connection) [0x00002] in <04ce934420954dc4a265005eacc2a64a>:0 
+  at Oxide.Plugins.SEacChecker.OnConnectionApproved (Network.Connection connection) [0x00011] in <04ce934420954dc4a265005eacc2a64a>:0 
+  at Oxide.Plugins.SEacChecker.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00178] in <04ce934420954dc4a265005eacc2a64a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e130131009984c9f85bca364a8a5a454>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d1a7dbb0435a4810a34b77f92cb88163>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d1a7dbb0435a4810a34b77f92cb88163>:0 
+17:55 [Info] Added '// Reference: EasyAntiCheat.Server' in plugin 'SEacChecker'
+17:55 [Info] Added '// Reference: Facepunch.Steamworks.Win64' in plugin 'SEacChecker'
+17:55 [Info] SEacChecker was compiled successfully in 2150ms
+17:55 [Info] Unloaded plugin SEacChecker v1.0.0 by setfps
+17:55 [Warning] SEacChecker has polluted the global namespace by defining STEAM_TOKENDATA
+17:55 [Warning] SEacChecker has polluted the global namespace by defining STEAM_SESSION
+17:55 [Warning] SEacChecker has polluted the global namespace by defining STEAM_TICKET
+17:55 [Warning] SEacChecker has polluted the global namespace by defining SteamTicket
+17:55 [Warning] SEacChecker has polluted the global namespace by defining NoSteamTicket
+17:55 [Warning] SEacChecker has polluted the global namespace by defining Tokens
+17:55 [Warning] SEacChecker has polluted the global namespace by defining SerializationExtension
+17:55 [Warning] SEacChecker has polluted the global namespace by defining UserData
+17:55 [Warning] SEacChecker has polluted the global namespace by defining Users
+17:55 [Info] Loaded plugin SEacChecker v1.0.0 by setfps
+17:56 [Info] [SEacChecker] test111
+17:56 [Warning] [SEacChecker] error: Object reference not set to an instance of an object
+18:00 [Info] Loading Oxide Core v2.0.4048...
+18:00 [Info] Loading extensions...
+18:00 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+18:00 [Info] [NoSteam] Author: Kaidoz
+ Telegram: Kaidoz
+ Github: github.com/Kaidoz/Rust-NoSteam
+18:00 [Info] Loaded extension NoSteam v1.2.0 by Kaidoz
+18:00 [Info] Loaded extension RustEdit v1.0.40 by k1lly0u
+18:00 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+18:00 [Info] Loaded extension Rust v2.0.0 by Oxide Team and Contributors
+18:00 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+18:00 [Info] Unity version: 2019.4.7f1
+18:00 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+18:00 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+18:00 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+18:00 [Info] Using Covalence provider for game 'Rust'
+18:00 [Info] Loading plugins...
+18:00 [Info] Loaded plugin RustEdit Automatic Updater v1.0.1 by Chaos
+18:00 [Info] Loaded plugin RustEdit Core v1.0.1 by Chaos
+18:00 [Info] Loaded plugin RustEdit Deployable Core v1.0.1 by Chaos
+18:00 [Info] Loaded plugin RustEdit IO Core v1.0.1 by Chaos
+18:00 [Info] Loaded plugin RustEdit Vending Core v1.0.1 by Chaos
+18:00 [Info] Loaded plugin RustEdit Loot Core v1.0.1 by Chaos
+18:00 [Info] Loaded plugin RustEdit Diesel Collectable Spawner v1.0.1 by Chaos
+18:00 [Info] Loaded plugin RustEdit Desk Keycard Spawner v1.0.1 by Chaos
+18:00 [Info] Loaded plugin RustEdit Resource Core v1.0.1 by Chaos
+18:00 [Info] Loaded plugin RustEdit JunkPile Core v1.0.1 by Chaos
+18:00 [Info] Loaded plugin RustEdit Spawn Core v1.0.1 by Chaos
+18:00 [Info] Loaded plugin RustEdit Ocean Path v1.0.1 by Chaos
+18:00 [Info] Loaded plugin RustEdit APC Core v1.0.1 by Chaos
+18:00 [Info] Loaded plugin RustEdit Vehicle Core v1.0.1 by Chaos
+18:00 [Info] Loaded plugin RustEdit NPC Core v1.0.1 by Chaos
+18:00 [Info] Loaded plugin RustEdit Excavator Rotation Correction v1.0.1 by Chaos
+18:00 [Info] Loaded plugin RustEdit Custom Topology Layers v1.0.1 by Chaos
+18:00 [Info] Loaded plugin Rust v2.0.0 by Oxide Team and Contributors
+18:00 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+18:00 [Info] Added '// Reference: EasyAntiCheat.Server' in plugin 'SEacChecker'
+18:00 [Info] Added '// Reference: Facepunch.Steamworks.Win64' in plugin 'SEacChecker'
+18:00 [Info] SEacChecker was compiled successfully in 0ms
+18:00 [Warning] SEacChecker has polluted the global namespace by defining STEAM_TOKENDATA
+18:00 [Warning] SEacChecker has polluted the global namespace by defining STEAM_SESSION
+18:00 [Warning] SEacChecker has polluted the global namespace by defining STEAM_TICKET
+18:00 [Warning] SEacChecker has polluted the global namespace by defining SteamTicket
+18:00 [Warning] SEacChecker has polluted the global namespace by defining NoSteamTicket
+18:00 [Warning] SEacChecker has polluted the global namespace by defining Tokens
+18:00 [Warning] SEacChecker has polluted the global namespace by defining SerializationExtension
+18:00 [Warning] SEacChecker has polluted the global namespace by defining UserData
+18:00 [Warning] SEacChecker has polluted the global namespace by defining Users
+18:00 [Info] Loaded plugin SEacChecker v1.0.0 by setfps
+18:01 [Warning] [RustEdit] - No IO data found in map file
+18:01 [Warning] [RustEdit] - No vending data found in map file
+18:01 [Warning] [RustEdit] - No loot data found in map file
+18:01 [Warning] [RustEdit] - No APC path data found in map file
+18:01 [Warning] [RustEdit] - No vehicle data found in map file
+18:01 [Warning] [RustEdit] - No NPC data found in map file
+18:01 [Warning] [RustEdit] - No ocean patrol path data found in map file
+18:02 [Info] IP address from Steam query: 0.0.0.0
+18:02 [Info] [RustEdit] - Checking for updates...
+18:02 [Info] [RustEdit] - The RustEdit extension is up to date!
+18:02 [Info] [RustEdit] - No custom vending machines found in map
+18:02 [Info] [RustEdit] - 0 loot containers processed!
+18:02 [Info] [RustEdit] - 0 resource entities processed!
+18:02 [Info] [RustEdit] - 0 junkpiles processed!
+18:02 [Info] [SEacChecker] test111
+18:02 [Warning] [SEacChecker] error: System access is restricted, you are not allowed to use System.Runtime.InteropServices.GCHandle
+18:05 [Info] Loading Oxide Core v2.0.4048...
+18:05 [Info] Loading extensions...
+18:05 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+18:05 [Info] [NoSteam] Author: Kaidoz
+ Telegram: Kaidoz
+ Github: github.com/Kaidoz/Rust-NoSteam
+18:05 [Info] Loaded extension NoSteam v1.2.0 by Kaidoz
+18:05 [Info] Loaded extension RustEdit v1.0.40 by k1lly0u
+18:05 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+18:05 [Info] Loaded extension Rust v2.0.0 by Oxide Team and Contributors
+18:05 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+18:05 [Info] Unity version: 2019.4.7f1
+18:05 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+18:05 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+18:05 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+18:05 [Info] Using Covalence provider for game 'Rust'
+18:05 [Info] Loading plugins...
+18:05 [Info] Loaded plugin RustEdit Automatic Updater v1.0.1 by Chaos
+18:05 [Info] Loaded plugin RustEdit Core v1.0.1 by Chaos
+18:05 [Info] Loaded plugin RustEdit Deployable Core v1.0.1 by Chaos
+18:05 [Info] Loaded plugin RustEdit IO Core v1.0.1 by Chaos
+18:05 [Info] Loaded plugin RustEdit Vending Core v1.0.1 by Chaos
+18:05 [Info] Loaded plugin RustEdit Loot Core v1.0.1 by Chaos
+18:05 [Info] Loaded plugin RustEdit Diesel Collectable Spawner v1.0.1 by Chaos
+18:05 [Info] Loaded plugin RustEdit Desk Keycard Spawner v1.0.1 by Chaos
+18:05 [Info] Loaded plugin RustEdit Resource Core v1.0.1 by Chaos
+18:05 [Info] Loaded plugin RustEdit JunkPile Core v1.0.1 by Chaos
+18:05 [Info] Loaded plugin RustEdit Spawn Core v1.0.1 by Chaos
+18:05 [Info] Loaded plugin RustEdit Ocean Path v1.0.1 by Chaos
+18:05 [Info] Loaded plugin RustEdit APC Core v1.0.1 by Chaos
+18:05 [Info] Loaded plugin RustEdit Vehicle Core v1.0.1 by Chaos
+18:05 [Info] Loaded plugin RustEdit NPC Core v1.0.1 by Chaos
+18:05 [Info] Loaded plugin RustEdit Excavator Rotation Correction v1.0.1 by Chaos
+18:05 [Info] Loaded plugin RustEdit Custom Topology Layers v1.0.1 by Chaos
+18:05 [Info] Loaded plugin Rust v2.0.0 by Oxide Team and Contributors
+18:05 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+18:05 [Info] Added '// Reference: EasyAntiCheat.Server' in plugin 'SEacChecker'
+18:05 [Info] Added '// Reference: Facepunch.Steamworks.Win64' in plugin 'SEacChecker'
+18:05 [Info] SEacChecker was compiled successfully in 0ms
+18:05 [Warning] SEacChecker has polluted the global namespace by defining STEAM_TOKENDATA
+18:05 [Warning] SEacChecker has polluted the global namespace by defining STEAM_SESSION
+18:05 [Warning] SEacChecker has polluted the global namespace by defining STEAM_TICKET
+18:05 [Warning] SEacChecker has polluted the global namespace by defining SteamTicket
+18:05 [Warning] SEacChecker has polluted the global namespace by defining NoSteamTicket
+18:05 [Warning] SEacChecker has polluted the global namespace by defining Tokens
+18:05 [Warning] SEacChecker has polluted the global namespace by defining SerializationExtension
+18:05 [Warning] SEacChecker has polluted the global namespace by defining UserData
+18:05 [Warning] SEacChecker has polluted the global namespace by defining Users
+18:05 [Info] Loaded plugin SEacChecker v1.0.0 by setfps
+18:06 [Warning] [RustEdit] - No IO data found in map file
+18:06 [Warning] [RustEdit] - No vending data found in map file
+18:06 [Warning] [RustEdit] - No loot data found in map file
+18:06 [Warning] [RustEdit] - No APC path data found in map file
+18:06 [Warning] [RustEdit] - No vehicle data found in map file
+18:06 [Warning] [RustEdit] - No NPC data found in map file
+18:06 [Warning] [RustEdit] - No ocean patrol path data found in map file
+18:06 [Info] IP address from Steam query: 0.0.0.0
+18:06 [Info] [RustEdit] - Checking for updates...
+18:06 [Info] [RustEdit] - The RustEdit extension is up to date!
+18:06 [Info] [RustEdit] - No custom vending machines found in map
+18:06 [Info] [RustEdit] - 0 loot containers processed!
+18:06 [Info] [RustEdit] - 0 resource entities processed!
+18:06 [Info] [RustEdit] - 0 junkpiles processed!
+18:06 [Info] [SEacChecker] test111
+18:16 [Info] Loading Oxide Core v2.0.4048...
+18:16 [Info] Loading extensions...
+18:16 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+18:16 [Info] Loaded extension RustEdit v1.0.40 by k1lly0u
+18:16 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+18:16 [Info] Loaded extension Rust v2.0.0 by Oxide Team and Contributors
+18:16 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+18:16 [Info] Unity version: 2019.4.7f1
+18:16 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+18:16 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+18:16 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+18:16 [Info] Using Covalence provider for game 'Rust'
+18:16 [Info] Loading plugins...
+18:16 [Info] Loaded plugin RustEdit Automatic Updater v1.0.1 by Chaos
+18:16 [Info] Loaded plugin RustEdit Core v1.0.1 by Chaos
+18:16 [Info] Loaded plugin RustEdit Deployable Core v1.0.1 by Chaos
+18:16 [Info] Loaded plugin RustEdit IO Core v1.0.1 by Chaos
+18:16 [Info] Loaded plugin RustEdit Vending Core v1.0.1 by Chaos
+18:16 [Info] Loaded plugin RustEdit Loot Core v1.0.1 by Chaos
+18:16 [Info] Loaded plugin RustEdit Diesel Collectable Spawner v1.0.1 by Chaos
+18:16 [Info] Loaded plugin RustEdit Desk Keycard Spawner v1.0.1 by Chaos
+18:16 [Info] Loaded plugin RustEdit Resource Core v1.0.1 by Chaos
+18:16 [Info] Loaded plugin RustEdit JunkPile Core v1.0.1 by Chaos
+18:16 [Info] Loaded plugin RustEdit Spawn Core v1.0.1 by Chaos
+18:16 [Info] Loaded plugin RustEdit Ocean Path v1.0.1 by Chaos
+18:16 [Info] Loaded plugin RustEdit APC Core v1.0.1 by Chaos
+18:16 [Info] Loaded plugin RustEdit Vehicle Core v1.0.1 by Chaos
+18:16 [Info] Loaded plugin RustEdit NPC Core v1.0.1 by Chaos
+18:16 [Info] Loaded plugin RustEdit Excavator Rotation Correction v1.0.1 by Chaos
+18:16 [Info] Loaded plugin RustEdit Custom Topology Layers v1.0.1 by Chaos
+18:16 [Info] Loaded plugin Rust v2.0.0 by Oxide Team and Contributors
+18:16 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+18:16 [Info] Added '// Reference: EasyAntiCheat.Server' in plugin 'SEacChecker'
+18:16 [Info] Added '// Reference: Facepunch.Steamworks.Win64' in plugin 'SEacChecker'
+18:16 [Info] SEacChecker was compiled successfully in 0ms
+18:16 [Warning] SEacChecker has polluted the global namespace by defining STEAM_TOKENDATA
+18:16 [Warning] SEacChecker has polluted the global namespace by defining STEAM_SESSION
+18:16 [Warning] SEacChecker has polluted the global namespace by defining STEAM_TICKET
+18:16 [Warning] SEacChecker has polluted the global namespace by defining SteamTicket
+18:16 [Warning] SEacChecker has polluted the global namespace by defining NoSteamTicket
+18:16 [Warning] SEacChecker has polluted the global namespace by defining Tokens
+18:16 [Warning] SEacChecker has polluted the global namespace by defining SerializationExtension
+18:16 [Warning] SEacChecker has polluted the global namespace by defining UserData
+18:16 [Warning] SEacChecker has polluted the global namespace by defining Users
+18:16 [Info] Loaded plugin SEacChecker v1.0.0 by setfps
+18:17 [Warning] [RustEdit] - No IO data found in map file
+18:17 [Warning] [RustEdit] - No vending data found in map file
+18:17 [Warning] [RustEdit] - No loot data found in map file
+18:17 [Warning] [RustEdit] - No APC path data found in map file
+18:17 [Warning] [RustEdit] - No vehicle data found in map file
+18:17 [Warning] [RustEdit] - No NPC data found in map file
+18:17 [Warning] [RustEdit] - No ocean patrol path data found in map file
+18:17 [Info] IP address from Steam query: 0.0.0.0
+18:17 [Info] [RustEdit] - Checking for updates...
+18:17 [Info] [RustEdit] - The RustEdit extension is up to date!
+18:17 [Info] [RustEdit] - No custom vending machines found in map
+18:17 [Info] [RustEdit] - 0 loot containers processed!
+18:17 [Info] [RustEdit] - 0 resource entities processed!
+18:17 [Info] [RustEdit] - 0 junkpiles processed!
+18:17 [Error] Failed to call hook 'OnJoinGame' on plugin 'SEacChecker v1.0.0' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.SEacChecker.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0013a] in <d81a9864d1fa4a09a8693dcaef124377>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e130131009984c9f85bca364a8a5a454>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d1a7dbb0435a4810a34b77f92cb88163>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d1a7dbb0435a4810a34b77f92cb88163>:0 
+18:19 [Info] Loading Oxide Core v2.0.4048...
+18:19 [Info] Loading extensions...
+18:19 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+18:19 [Info] Loaded extension RustEdit v1.0.40 by k1lly0u
+18:19 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+18:19 [Info] Loaded extension Rust v2.0.0 by Oxide Team and Contributors
+18:19 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+18:19 [Info] Unity version: 2019.4.7f1
+18:19 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+18:19 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+18:19 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+18:19 [Info] Using Covalence provider for game 'Rust'
+18:19 [Info] Loading plugins...
+18:19 [Info] Loaded plugin RustEdit Automatic Updater v1.0.1 by Chaos
+18:19 [Info] Loaded plugin RustEdit Core v1.0.1 by Chaos
+18:19 [Info] Loaded plugin RustEdit Deployable Core v1.0.1 by Chaos
+18:19 [Info] Loaded plugin RustEdit IO Core v1.0.1 by Chaos
+18:19 [Info] Loaded plugin RustEdit Vending Core v1.0.1 by Chaos
+18:19 [Info] Loaded plugin RustEdit Loot Core v1.0.1 by Chaos
+18:19 [Info] Loaded plugin RustEdit Diesel Collectable Spawner v1.0.1 by Chaos
+18:19 [Info] Loaded plugin RustEdit Desk Keycard Spawner v1.0.1 by Chaos
+18:19 [Info] Loaded plugin RustEdit Resource Core v1.0.1 by Chaos
+18:19 [Info] Loaded plugin RustEdit JunkPile Core v1.0.1 by Chaos
+18:19 [Info] Loaded plugin RustEdit Spawn Core v1.0.1 by Chaos
+18:19 [Info] Loaded plugin RustEdit Ocean Path v1.0.1 by Chaos
+18:19 [Info] Loaded plugin RustEdit APC Core v1.0.1 by Chaos
+18:19 [Info] Loaded plugin RustEdit Vehicle Core v1.0.1 by Chaos
+18:19 [Info] Loaded plugin RustEdit NPC Core v1.0.1 by Chaos
+18:19 [Info] Loaded plugin RustEdit Excavator Rotation Correction v1.0.1 by Chaos
+18:19 [Info] Loaded plugin RustEdit Custom Topology Layers v1.0.1 by Chaos
+18:19 [Info] Loaded plugin Rust v2.0.0 by Oxide Team and Contributors
+18:19 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+18:19 [Info] Added '// Reference: EasyAntiCheat.Server' in plugin 'SEacChecker'
+18:19 [Info] Added '// Reference: Facepunch.Steamworks.Win64' in plugin 'SEacChecker'
+18:19 [Info] SEacChecker was compiled successfully in 0ms
+18:19 [Warning] SEacChecker has polluted the global namespace by defining STEAM_TOKENDATA
+18:19 [Warning] SEacChecker has polluted the global namespace by defining STEAM_SESSION
+18:19 [Warning] SEacChecker has polluted the global namespace by defining STEAM_TICKET
+18:19 [Warning] SEacChecker has polluted the global namespace by defining SteamTicket
+18:19 [Warning] SEacChecker has polluted the global namespace by defining NoSteamTicket
+18:19 [Warning] SEacChecker has polluted the global namespace by defining Tokens
+18:19 [Warning] SEacChecker has polluted the global namespace by defining SerializationExtension
+18:19 [Warning] SEacChecker has polluted the global namespace by defining UserData
+18:19 [Warning] SEacChecker has polluted the global namespace by defining Users
+18:19 [Info] Loaded plugin SEacChecker v1.0.0 by setfps
+18:20 [Warning] [RustEdit] - No IO data found in map file
+18:20 [Warning] [RustEdit] - No vending data found in map file
+18:20 [Warning] [RustEdit] - No loot data found in map file
+18:20 [Warning] [RustEdit] - No APC path data found in map file
+18:20 [Warning] [RustEdit] - No vehicle data found in map file
+18:20 [Warning] [RustEdit] - No NPC data found in map file
+18:20 [Warning] [RustEdit] - No ocean patrol path data found in map file
+18:20 [Info] IP address from Steam query: 0.0.0.0
+18:20 [Info] [RustEdit] - Checking for updates...
+18:20 [Info] [RustEdit] - The RustEdit extension is up to date!
+18:20 [Info] [RustEdit] - No custom vending machines found in map
+18:20 [Info] [RustEdit] - 0 loot containers processed!
+18:20 [Info] [RustEdit] - 0 resource entities processed!
+18:20 [Info] [RustEdit] - 0 junkpiles processed!
+18:20 [Info] [SEacChecker] test1
+18:20 [Info] [SEacChecker] issteam
+18:21 [Info] Player 'setfps (76561198875410359)' granted permission 'SEacChecker.eac'
+18:21 [Info] [SEacChecker] test1
+18:21 [Info] [SEacChecker] issteam
+18:23 [Info] [SEacChecker] test1
+18:23 [Info] [SEacChecker] issteam
+18:31 [Info] Loading Oxide Core v2.0.4048...
+18:31 [Info] Loading extensions...
+18:31 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+18:31 [Info] [NoSteam] Author: Kaidoz
+ Telegram: Kaidoz
+ Github: github.com/Kaidoz/Rust-NoSteam
+18:31 [Info] Loaded extension NoSteam v1.2.0 by Kaidoz
+18:31 [Info] Loaded extension RustEdit v1.0.40 by k1lly0u
+18:31 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+18:31 [Info] Loaded extension Rust v2.0.0 by Oxide Team and Contributors
+18:31 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+18:31 [Info] Unity version: 2019.4.7f1
+18:31 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+18:31 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+18:31 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+18:31 [Info] Using Covalence provider for game 'Rust'
+18:31 [Info] Loading plugins...
+18:31 [Info] Loaded plugin RustEdit Automatic Updater v1.0.1 by Chaos
+18:31 [Info] Loaded plugin RustEdit Core v1.0.1 by Chaos
+18:31 [Info] Loaded plugin RustEdit Deployable Core v1.0.1 by Chaos
+18:31 [Info] Loaded plugin RustEdit IO Core v1.0.1 by Chaos
+18:31 [Info] Loaded plugin RustEdit Vending Core v1.0.1 by Chaos
+18:31 [Info] Loaded plugin RustEdit Loot Core v1.0.1 by Chaos
+18:31 [Info] Loaded plugin RustEdit Diesel Collectable Spawner v1.0.1 by Chaos
+18:31 [Info] Loaded plugin RustEdit Desk Keycard Spawner v1.0.1 by Chaos
+18:31 [Info] Loaded plugin RustEdit Resource Core v1.0.1 by Chaos
+18:31 [Info] Loaded plugin RustEdit JunkPile Core v1.0.1 by Chaos
+18:31 [Info] Loaded plugin RustEdit Spawn Core v1.0.1 by Chaos
+18:31 [Info] Loaded plugin RustEdit Ocean Path v1.0.1 by Chaos
+18:31 [Info] Loaded plugin RustEdit APC Core v1.0.1 by Chaos
+18:31 [Info] Loaded plugin RustEdit Vehicle Core v1.0.1 by Chaos
+18:31 [Info] Loaded plugin RustEdit NPC Core v1.0.1 by Chaos
+18:31 [Info] Loaded plugin RustEdit Excavator Rotation Correction v1.0.1 by Chaos
+18:31 [Info] Loaded plugin RustEdit Custom Topology Layers v1.0.1 by Chaos
+18:31 [Info] Loaded plugin Rust v2.0.0 by Oxide Team and Contributors
+18:31 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+18:32 [Warning] [RustEdit] - No IO data found in map file
+18:32 [Warning] [RustEdit] - No vending data found in map file
+18:32 [Warning] [RustEdit] - No loot data found in map file
+18:32 [Warning] [RustEdit] - No APC path data found in map file
+18:32 [Warning] [RustEdit] - No vehicle data found in map file
+18:32 [Warning] [RustEdit] - No NPC data found in map file
+18:32 [Warning] [RustEdit] - No ocean patrol path data found in map file
+18:32 [Info] IP address from Steam query: 0.0.0.0
+18:32 [Info] [RustEdit] - Checking for updates...
+18:32 [Info] [RustEdit] - The RustEdit extension is up to date!
+18:32 [Info] [RustEdit] - No custom vending machines found in map
+18:32 [Info] [RustEdit] - 0 loot containers processed!
+18:32 [Info] [RustEdit] - 0 resource entities processed!
+18:32 [Info] [RustEdit] - 0 junkpiles processed!
+18:36 [Info] FlatAntiCheat was compiled successfully in 2360ms
+18:36 [Info] Loaded plugin FlatAntiCheat v1.0.6 by Ryamkk, Setfps
+18:36 [Info] FlatAntiCheat was compiled successfully in 215ms
+18:36 [Info] Unloaded plugin FlatAntiCheat v1.0.6 by Ryamkk, Setfps
+18:36 [Info] Loaded plugin FlatAntiCheat v1.0.6 by Ryamkk, Setfps
+18:36 [Info] [FlatAntiCheat] pizdec
+18:36 [Info] [FlatAntiCheat] Google answered: 127.1.1.1
+
+18:36 [Info] [FlatAntiCheat] pizdec
+18:36 [Info] [FlatAntiCheat] Google answered: 127.1.1.1
+
+18:36 [Info] FlatAntiCheat was compiled successfully in 203ms
+18:36 [Info] Unloaded plugin FlatAntiCheat v1.0.6 by Ryamkk, Setfps
+18:36 [Info] Loaded plugin FlatAntiCheat v1.0.6 by Ryamkk, Setfps
+18:36 [Info] [FlatAntiCheat] pizdec
+18:36 [Info] [FlatAntiCheat] Google answered: 127.1.1.1
+
+18:37 [Info] FlatAntiCheat was compiled successfully in 180ms
+18:37 [Info] Unloaded plugin FlatAntiCheat v1.0.6 by Ryamkk, Setfps
+18:37 [Info] Loaded plugin FlatAntiCheat v1.0.6 by Ryamkk, Setfps
+18:37 [Info] [FlatAntiCheat] pizdec
+18:37 [Info] [FlatAntiCheat] Google answered: 127.1.1.1
+
+18:37 [Info] [FlatAntiCheat] pizdec
+18:37 [Info] [FlatAntiCheat] Google answered: 127.1.1.1
+
+18:37 [Info] [FlatAntiCheat] pizdec
+18:37 [Info] [FlatAntiCheat] Google answered: 127.1.1.1
+
+18:37 [Info] FlatAntiCheat was compiled successfully in 199ms
+18:37 [Info] Unloaded plugin FlatAntiCheat v1.0.6 by Ryamkk, Setfps
+18:37 [Info] Loaded plugin FlatAntiCheat v1.0.6 by Ryamkk, Setfps
+18:37 [Info] [FlatAntiCheat] Google answered: gBw/TLTQdmJraDd609QUiwk7e9VcujEVLeWd5dtkbV89bofekk4a+yKuPKs8LpRIm3EYwIgn4UwQQCsqEtPqLBNQL4CfBg0rA/+B1pAOnGhQUaYBEYrjU0jO5QqBbJvAjqMXoRMwgQgWCoJ0+ZG58n/phc0H3AH579le3vAhJkaCws/oYzjULC8YOm8zmSO6T3j4R3/0n8q0VvwjDJmqzHdPMLPmAleOj03bLGZYT0uPylbOO9/q8XR0b1vnf+1X1Ww4/cI1mJPmautvVEvt3mr17vbo08+wKwPpDIKBT/JKgtBtS8NC6HRb6oTgwvgNHHFPiN87I/grNV+tRK8Sl+OdGACgI0mVAfo0ml/SGwc94hSyUZ8avHAm3saTGQpzE32uFRSudQN2WKiaCIi8FMUnZvCAptSdhmPPOG+9YG1KKX2gVIziX603iMIWjx+RFr4jDYznmV98VmAB3j8kwRpvcOEYSd+LHtzu4n2dAMajb6dYXK87vRX6rKvB70tjLj7aK3FXWFGKXJaPZboBf+408smwz8gc4cYkdQbowBDI+jlbTKCdoKfQciLlEwumt08ZbYMtgdvi8lb/RLwvZS56jQcUdQA8xvliyDa5+68=
+18:43 [Info] Loading Oxide Core v2.0.4048...
+18:43 [Info] Loading extensions...
+18:43 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+18:43 [Info] [NoSteam] Author: Kaidoz
+ Telegram: Kaidoz
+ Github: github.com/Kaidoz/Rust-NoSteam
+18:43 [Info] Loaded extension NoSteam v1.2.0 by Kaidoz
+18:43 [Info] Loaded extension RustEdit v1.0.40 by k1lly0u
+18:43 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+18:43 [Info] Loaded extension Rust v2.0.0 by Oxide Team and Contributors
+18:43 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+18:43 [Info] Unity version: 2019.4.7f1
+18:43 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+18:43 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+18:43 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+18:43 [Info] Using Covalence provider for game 'Rust'
+18:43 [Info] Loading plugins...
+18:43 [Info] Loaded plugin RustEdit Automatic Updater v1.0.1 by Chaos
+18:43 [Info] Loaded plugin RustEdit Core v1.0.1 by Chaos
+18:43 [Info] Loaded plugin RustEdit Deployable Core v1.0.1 by Chaos
+18:43 [Info] Loaded plugin RustEdit IO Core v1.0.1 by Chaos
+18:43 [Info] Loaded plugin RustEdit Vending Core v1.0.1 by Chaos
+18:43 [Info] Loaded plugin RustEdit Loot Core v1.0.1 by Chaos
+18:43 [Info] Loaded plugin RustEdit Diesel Collectable Spawner v1.0.1 by Chaos
+18:43 [Info] Loaded plugin RustEdit Desk Keycard Spawner v1.0.1 by Chaos
+18:43 [Info] Loaded plugin RustEdit Resource Core v1.0.1 by Chaos
+18:43 [Info] Loaded plugin RustEdit JunkPile Core v1.0.1 by Chaos
+18:43 [Info] Loaded plugin RustEdit Spawn Core v1.0.1 by Chaos
+18:43 [Info] Loaded plugin RustEdit Ocean Path v1.0.1 by Chaos
+18:43 [Info] Loaded plugin RustEdit APC Core v1.0.1 by Chaos
+18:43 [Info] Loaded plugin RustEdit Vehicle Core v1.0.1 by Chaos
+18:43 [Info] Loaded plugin RustEdit NPC Core v1.0.1 by Chaos
+18:43 [Info] Loaded plugin RustEdit Excavator Rotation Correction v1.0.1 by Chaos
+18:43 [Info] Loaded plugin RustEdit Custom Topology Layers v1.0.1 by Chaos
+18:43 [Info] Loaded plugin Rust v2.0.0 by Oxide Team and Contributors
+18:43 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+18:43 [Info] FlatAntiCheat was compiled successfully in 0ms
+18:43 [Info] Loaded plugin FlatAntiCheat v1.0.6 by Ryamkk, Setfps
+18:43 [Warning] [RustEdit] - No IO data found in map file
+18:43 [Warning] [RustEdit] - No vending data found in map file
+18:43 [Warning] [RustEdit] - No loot data found in map file
+18:43 [Warning] [RustEdit] - No APC path data found in map file
+18:43 [Warning] [RustEdit] - No vehicle data found in map file
+18:43 [Warning] [RustEdit] - No NPC data found in map file
+18:43 [Warning] [RustEdit] - No ocean patrol path data found in map file
+18:43 [Info] IP address from Steam query: 0.0.0.0
+18:43 [Info] [RustEdit] - Checking for updates...
+18:43 [Info] [RustEdit] - The RustEdit extension is up to date!
+18:43 [Info] [RustEdit] - No custom vending machines found in map
+18:43 [Info] [RustEdit] - 0 loot containers processed!
+18:43 [Info] [RustEdit] - 0 resource entities processed!
+18:43 [Info] [RustEdit] - 0 junkpiles processed!
+18:46 [Info] Loading Oxide Core v2.0.4048...
+18:46 [Info] Loading extensions...
+18:46 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+18:46 [Info] [NoSteam] Author: Kaidoz
+ Telegram: Kaidoz
+ Github: github.com/Kaidoz/Rust-NoSteam
+18:46 [Info] Loaded extension NoSteam v1.2.0 by Kaidoz
+18:46 [Info] Loaded extension RustEdit v1.0.40 by k1lly0u
+18:46 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+18:46 [Info] Loaded extension Rust v2.0.0 by Oxide Team and Contributors
+18:46 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+18:46 [Info] Unity version: 2019.4.7f1
+18:46 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+18:46 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+18:46 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+18:46 [Info] Using Covalence provider for game 'Rust'
+18:46 [Info] Loading plugins...
+18:46 [Info] Loaded plugin RustEdit Automatic Updater v1.0.1 by Chaos
+18:46 [Info] Loaded plugin RustEdit Core v1.0.1 by Chaos
+18:46 [Info] Loaded plugin RustEdit Deployable Core v1.0.1 by Chaos
+18:46 [Info] Loaded plugin RustEdit IO Core v1.0.1 by Chaos
+18:46 [Info] Loaded plugin RustEdit Vending Core v1.0.1 by Chaos
+18:46 [Info] Loaded plugin RustEdit Loot Core v1.0.1 by Chaos
+18:46 [Info] Loaded plugin RustEdit Diesel Collectable Spawner v1.0.1 by Chaos
+18:46 [Info] Loaded plugin RustEdit Desk Keycard Spawner v1.0.1 by Chaos
+18:46 [Info] Loaded plugin RustEdit Resource Core v1.0.1 by Chaos
+18:46 [Info] Loaded plugin RustEdit JunkPile Core v1.0.1 by Chaos
+18:46 [Info] Loaded plugin RustEdit Spawn Core v1.0.1 by Chaos
+18:46 [Info] Loaded plugin RustEdit Ocean Path v1.0.1 by Chaos
+18:46 [Info] Loaded plugin RustEdit APC Core v1.0.1 by Chaos
+18:46 [Info] Loaded plugin RustEdit Vehicle Core v1.0.1 by Chaos
+18:46 [Info] Loaded plugin RustEdit NPC Core v1.0.1 by Chaos
+18:46 [Info] Loaded plugin RustEdit Excavator Rotation Correction v1.0.1 by Chaos
+18:46 [Info] Loaded plugin RustEdit Custom Topology Layers v1.0.1 by Chaos
+18:46 [Info] Loaded plugin Rust v2.0.0 by Oxide Team and Contributors
+18:46 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+18:47 [Info] Loading Oxide Core v2.0.4048...
+18:47 [Info] Loading extensions...
+18:47 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+18:47 [Info] [NoSteam] Author: Kaidoz
+ Telegram: Kaidoz
+ Github: github.com/Kaidoz/Rust-NoSteam
+18:47 [Info] Loaded extension NoSteam v1.2.0 by Kaidoz
+18:47 [Info] Loaded extension RustEdit v1.0.40 by k1lly0u
+18:47 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+18:47 [Info] Loaded extension Rust v2.0.0 by Oxide Team and Contributors
+18:47 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+18:47 [Info] Unity version: 2019.4.7f1
+18:47 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+18:47 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+18:47 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+18:47 [Info] Using Covalence provider for game 'Rust'
+18:47 [Info] Loading plugins...
+18:47 [Info] Loaded plugin RustEdit Automatic Updater v1.0.1 by Chaos
+18:47 [Info] Loaded plugin RustEdit Core v1.0.1 by Chaos
+18:47 [Info] Loaded plugin RustEdit Deployable Core v1.0.1 by Chaos
+18:47 [Info] Loaded plugin RustEdit IO Core v1.0.1 by Chaos
+18:47 [Info] Loaded plugin RustEdit Vending Core v1.0.1 by Chaos
+18:47 [Info] Loaded plugin RustEdit Loot Core v1.0.1 by Chaos
+18:47 [Info] Loaded plugin RustEdit Diesel Collectable Spawner v1.0.1 by Chaos
+18:47 [Info] Loaded plugin RustEdit Desk Keycard Spawner v1.0.1 by Chaos
+18:47 [Info] Loaded plugin RustEdit Resource Core v1.0.1 by Chaos
+18:47 [Info] Loaded plugin RustEdit JunkPile Core v1.0.1 by Chaos
+18:47 [Info] Loaded plugin RustEdit Spawn Core v1.0.1 by Chaos
+18:47 [Info] Loaded plugin RustEdit Ocean Path v1.0.1 by Chaos
+18:47 [Info] Loaded plugin RustEdit APC Core v1.0.1 by Chaos
+18:47 [Info] Loaded plugin RustEdit Vehicle Core v1.0.1 by Chaos
+18:47 [Info] Loaded plugin RustEdit NPC Core v1.0.1 by Chaos
+18:47 [Info] Loaded plugin RustEdit Excavator Rotation Correction v1.0.1 by Chaos
+18:47 [Info] Loaded plugin RustEdit Custom Topology Layers v1.0.1 by Chaos
+18:47 [Info] Loaded plugin Rust v2.0.0 by Oxide Team and Contributors
+18:47 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+18:48 [Info] Loading Oxide Core v2.0.4048...
+18:48 [Info] Loading extensions...
+18:48 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+18:48 [Info] [NoSteam] Author: Kaidoz
+ Telegram: Kaidoz
+ Github: github.com/Kaidoz/Rust-NoSteam
+18:48 [Info] Loaded extension NoSteam v1.2.0 by Kaidoz
+18:48 [Info] Loaded extension RustEdit v1.0.40 by k1lly0u
+18:48 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+18:48 [Info] Loaded extension Rust v2.0.0 by Oxide Team and Contributors
+18:48 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+18:48 [Info] Unity version: 2019.4.7f1
+18:48 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+18:48 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+18:48 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+18:48 [Info] Using Covalence provider for game 'Rust'
+18:48 [Info] Loading plugins...
+18:48 [Info] Loaded plugin RustEdit Automatic Updater v1.0.1 by Chaos
+18:48 [Info] Loaded plugin RustEdit Core v1.0.1 by Chaos
+18:48 [Info] Loaded plugin RustEdit Deployable Core v1.0.1 by Chaos
+18:48 [Info] Loaded plugin RustEdit IO Core v1.0.1 by Chaos
+18:48 [Info] Loaded plugin RustEdit Vending Core v1.0.1 by Chaos
+18:48 [Info] Loaded plugin RustEdit Loot Core v1.0.1 by Chaos
+18:48 [Info] Loaded plugin RustEdit Diesel Collectable Spawner v1.0.1 by Chaos
+18:48 [Info] Loaded plugin RustEdit Desk Keycard Spawner v1.0.1 by Chaos
+18:48 [Info] Loaded plugin RustEdit Resource Core v1.0.1 by Chaos
+18:48 [Info] Loaded plugin RustEdit JunkPile Core v1.0.1 by Chaos
+18:48 [Info] Loaded plugin RustEdit Spawn Core v1.0.1 by Chaos
+18:48 [Info] Loaded plugin RustEdit Ocean Path v1.0.1 by Chaos
+18:48 [Info] Loaded plugin RustEdit APC Core v1.0.1 by Chaos
+18:48 [Info] Loaded plugin RustEdit Vehicle Core v1.0.1 by Chaos
+18:48 [Info] Loaded plugin RustEdit NPC Core v1.0.1 by Chaos
+18:48 [Info] Loaded plugin RustEdit Excavator Rotation Correction v1.0.1 by Chaos
+18:48 [Info] Loaded plugin RustEdit Custom Topology Layers v1.0.1 by Chaos
+18:48 [Info] Loaded plugin Rust v2.0.0 by Oxide Team and Contributors
+18:48 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+18:48 [Info] FlatAntiCheat was compiled successfully in 0ms
+18:48 [Info] Loaded plugin FlatAntiCheat v1.0.6 by Ryamkk, Setfps
+18:49 [Info] Loading Oxide Core v2.0.4048...
+18:49 [Info] Loading extensions...
+18:49 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+18:49 [Info] [NoSteam] Author: Kaidoz
+ Telegram: Kaidoz
+ Github: github.com/Kaidoz/Rust-NoSteam
+18:49 [Info] Loaded extension NoSteam v1.2.0 by Kaidoz
+18:49 [Info] Loaded extension RustEdit v1.0.40 by k1lly0u
+18:49 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+18:49 [Info] Loaded extension Rust v2.0.0 by Oxide Team and Contributors
+18:49 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+18:49 [Info] Unity version: 2019.4.7f1
+18:49 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+18:49 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+18:49 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+18:49 [Info] Using Covalence provider for game 'Rust'
+18:49 [Info] Loading plugins...
+18:49 [Info] Loaded plugin RustEdit Automatic Updater v1.0.1 by Chaos
+18:49 [Info] Loaded plugin RustEdit Core v1.0.1 by Chaos
+18:49 [Info] Loaded plugin RustEdit Deployable Core v1.0.1 by Chaos
+18:49 [Info] Loaded plugin RustEdit IO Core v1.0.1 by Chaos
+18:49 [Info] Loaded plugin RustEdit Vending Core v1.0.1 by Chaos
+18:49 [Info] Loaded plugin RustEdit Loot Core v1.0.1 by Chaos
+18:49 [Info] Loaded plugin RustEdit Diesel Collectable Spawner v1.0.1 by Chaos
+18:49 [Info] Loaded plugin RustEdit Desk Keycard Spawner v1.0.1 by Chaos
+18:49 [Info] Loaded plugin RustEdit Resource Core v1.0.1 by Chaos
+18:49 [Info] Loaded plugin RustEdit JunkPile Core v1.0.1 by Chaos
+18:49 [Info] Loaded plugin RustEdit Spawn Core v1.0.1 by Chaos
+18:49 [Info] Loaded plugin RustEdit Ocean Path v1.0.1 by Chaos
+18:49 [Info] Loaded plugin RustEdit APC Core v1.0.1 by Chaos
+18:49 [Info] Loaded plugin RustEdit Vehicle Core v1.0.1 by Chaos
+18:49 [Info] Loaded plugin RustEdit NPC Core v1.0.1 by Chaos
+18:49 [Info] Loaded plugin RustEdit Excavator Rotation Correction v1.0.1 by Chaos
+18:49 [Info] Loaded plugin RustEdit Custom Topology Layers v1.0.1 by Chaos
+18:49 [Info] Loaded plugin Rust v2.0.0 by Oxide Team and Contributors
+18:49 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+19:13 [Info] Loading Oxide Core v2.0.4048...
+19:13 [Info] Loading extensions...
+19:13 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+19:13 [Info] [NoSteam] Author: Kaidoz
+ Telegram: Kaidoz
+ Github: github.com/Kaidoz/Rust-NoSteam
+19:14 [Info] Loading Oxide Core v2.0.4048...
+19:14 [Info] Loading extensions...
+19:14 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+19:14 [Info] [NoSteam] Author: Kaidoz
+ Telegram: Kaidoz
+ Github: github.com/Kaidoz/Rust-NoSteam
+19:14 [Info] Loaded extension NoSteam v1.2.0 by Kaidoz
+19:14 [Info] Loaded extension RustEdit v1.0.40 by k1lly0u
+19:14 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+19:14 [Info] Loaded extension Rust v2.0.0 by Oxide Team and Contributors
+19:14 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+19:14 [Info] Unity version: 2019.4.7f1
+19:14 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+19:14 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+19:14 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+19:14 [Info] Using Covalence provider for game 'Rust'
+19:14 [Info] Loading plugins...
+19:14 [Info] Loading Oxide Core v2.0.4048...
+19:14 [Info] Loading extensions...
+19:14 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+19:14 [Info] [NoSteam] Author: Kaidoz
+ Telegram: Kaidoz
+ Github: github.com/Kaidoz/Rust-NoSteam
+19:14 [Info] Loaded extension NoSteam v1.2.0 by Kaidoz
+19:14 [Info] Loaded extension RustEdit v1.0.40 by k1lly0u
+19:14 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+19:14 [Info] Loaded extension Rust v2.0.0 by Oxide Team and Contributors
+19:14 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+19:14 [Info] Unity version: 2019.4.7f1
+19:14 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+19:14 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+19:14 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+19:14 [Info] Using Covalence provider for game 'Rust'
+19:14 [Info] Loading plugins...
+19:14 [Info] Loaded plugin RustEdit Automatic Updater v1.0.1 by Chaos
+19:14 [Info] Loaded plugin RustEdit Core v1.0.1 by Chaos
+19:14 [Info] Loaded plugin RustEdit Deployable Core v1.0.1 by Chaos
+19:14 [Info] Loaded plugin RustEdit IO Core v1.0.1 by Chaos
+19:14 [Info] Loaded plugin RustEdit Vending Core v1.0.1 by Chaos
+19:14 [Info] Loaded plugin RustEdit Loot Core v1.0.1 by Chaos
+19:14 [Info] Loaded plugin RustEdit Diesel Collectable Spawner v1.0.1 by Chaos
+19:14 [Info] Loaded plugin RustEdit Desk Keycard Spawner v1.0.1 by Chaos
+19:14 [Info] Loaded plugin RustEdit Resource Core v1.0.1 by Chaos
+19:14 [Info] Loaded plugin RustEdit JunkPile Core v1.0.1 by Chaos
+19:14 [Info] Loaded plugin RustEdit Spawn Core v1.0.1 by Chaos
+19:14 [Info] Loaded plugin RustEdit Ocean Path v1.0.1 by Chaos
+19:14 [Info] Loaded plugin RustEdit APC Core v1.0.1 by Chaos
+19:14 [Info] Loaded plugin RustEdit Vehicle Core v1.0.1 by Chaos
+19:14 [Info] Loaded plugin RustEdit NPC Core v1.0.1 by Chaos
+19:14 [Info] Loaded plugin RustEdit Excavator Rotation Correction v1.0.1 by Chaos
+19:14 [Info] Loaded plugin RustEdit Custom Topology Layers v1.0.1 by Chaos
+19:14 [Info] Loaded plugin Rust v2.0.0 by Oxide Team and Contributors
+19:14 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+19:14 [Info] FlatAntiCheat was compiled successfully in 0ms
+19:14 [Info] Loaded plugin FlatAntiCheat v1.0.6 by Ryamkk, Setfps

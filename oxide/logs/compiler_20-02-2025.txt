@@ -1,0 +1,3 @@
+[SERVER v1.0.24] Started as service
+[SERVER v1.0.24] Running as service
+[SERVER v1.0.24] Shutdown

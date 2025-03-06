@@ -1,0 +1,22 @@
+{
+  "76561199073826549": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  }
+}

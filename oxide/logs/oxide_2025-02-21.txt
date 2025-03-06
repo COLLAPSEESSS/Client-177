@@ -1,0 +1,75 @@
+11:05 [Info] Loading Oxide Core v2.0.4048...
+11:05 [Info] Loading extensions...
+11:05 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+11:05 [Info] [NoSteam] Author: Kaidoz
+ Telegram: Kaidoz
+ Github: github.com/Kaidoz/Rust-NoSteam
+11:05 [Info] Loaded extension NoSteam v1.2.0 by Kaidoz
+11:05 [Info] Loaded extension RustEdit v1.0.40 by k1lly0u
+11:05 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+11:05 [Info] Loaded extension Rust v2.0.0 by Oxide Team and Contributors
+11:05 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+11:05 [Info] Unity version: 2019.4.7f1
+11:05 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+11:06 [Error] Could not check for update to Compiler.exe
+11:06 [Error] The remote server returned an error: (522) .
+11:06 [Info] Using Covalence provider for game 'Rust'
+11:06 [Info] Loading plugins...
+11:06 [Info] Loaded plugin RustEdit Automatic Updater v1.0.1 by Chaos
+11:06 [Info] Loaded plugin RustEdit Core v1.0.1 by Chaos
+11:06 [Info] Loaded plugin RustEdit Deployable Core v1.0.1 by Chaos
+11:06 [Info] Loaded plugin RustEdit IO Core v1.0.1 by Chaos
+11:06 [Info] Loaded plugin RustEdit Vending Core v1.0.1 by Chaos
+11:06 [Info] Loaded plugin RustEdit Loot Core v1.0.1 by Chaos
+11:06 [Info] Loaded plugin RustEdit Diesel Collectable Spawner v1.0.1 by Chaos
+11:06 [Info] Loaded plugin RustEdit Desk Keycard Spawner v1.0.1 by Chaos
+11:06 [Info] Loaded plugin RustEdit Resource Core v1.0.1 by Chaos
+11:06 [Info] Loaded plugin RustEdit JunkPile Core v1.0.1 by Chaos
+11:06 [Info] Loaded plugin RustEdit Spawn Core v1.0.1 by Chaos
+11:06 [Info] Loaded plugin RustEdit Ocean Path v1.0.1 by Chaos
+11:06 [Info] Loaded plugin RustEdit APC Core v1.0.1 by Chaos
+11:06 [Info] Loaded plugin RustEdit Vehicle Core v1.0.1 by Chaos
+11:06 [Info] Loaded plugin RustEdit NPC Core v1.0.1 by Chaos
+11:06 [Info] Loaded plugin RustEdit Excavator Rotation Correction v1.0.1 by Chaos
+11:06 [Info] Loaded plugin RustEdit Custom Topology Layers v1.0.1 by Chaos
+11:06 [Info] Loaded plugin Rust v2.0.0 by Oxide Team and Contributors
+11:06 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+11:13 [Info] Loading Oxide Core v2.0.4048...
+11:13 [Info] Loading extensions...
+11:13 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+11:13 [Info] [NoSteam] Author: Kaidoz
+ Telegram: Kaidoz
+ Github: github.com/Kaidoz/Rust-NoSteam
+11:13 [Info] Loaded extension NoSteam v1.2.0 by Kaidoz
+11:13 [Info] Loaded extension RustEdit v1.0.40 by k1lly0u
+11:13 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+11:13 [Info] Loaded extension Rust v2.0.0 by Oxide Team and Contributors
+11:13 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+11:13 [Info] Unity version: 2019.4.7f1
+11:13 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+11:13 [Error] Could not check for update to Compiler.exe
+11:13 [Error] The remote server returned an error: (522) .
+11:13 [Info] Using Covalence provider for game 'Rust'
+11:13 [Info] Loading plugins...
+11:13 [Info] Loaded plugin RustEdit Automatic Updater v1.0.1 by Chaos
+11:13 [Info] Loaded plugin RustEdit Core v1.0.1 by Chaos
+11:13 [Info] Loaded plugin RustEdit Deployable Core v1.0.1 by Chaos
+11:13 [Info] Loaded plugin RustEdit IO Core v1.0.1 by Chaos
+11:13 [Info] Loaded plugin RustEdit Vending Core v1.0.1 by Chaos
+11:13 [Info] Loaded plugin RustEdit Loot Core v1.0.1 by Chaos
+11:13 [Info] Loaded plugin RustEdit Diesel Collectable Spawner v1.0.1 by Chaos
+11:13 [Info] Loaded plugin RustEdit Desk Keycard Spawner v1.0.1 by Chaos
+11:13 [Info] Loaded plugin RustEdit Resource Core v1.0.1 by Chaos
+11:13 [Info] Loaded plugin RustEdit JunkPile Core v1.0.1 by Chaos
+11:13 [Info] Loaded plugin RustEdit Spawn Core v1.0.1 by Chaos
+11:13 [Info] Loaded plugin RustEdit Ocean Path v1.0.1 by Chaos
+11:13 [Info] Loaded plugin RustEdit APC Core v1.0.1 by Chaos
+11:13 [Info] Loaded plugin RustEdit Vehicle Core v1.0.1 by Chaos
+11:13 [Info] Loaded plugin RustEdit NPC Core v1.0.1 by Chaos
+11:13 [Info] Loaded plugin RustEdit Excavator Rotation Correction v1.0.1 by Chaos
+11:13 [Info] Loaded plugin RustEdit Custom Topology Layers v1.0.1 by Chaos
+11:13 [Info] Loaded plugin Rust v2.0.0 by Oxide Team and Contributors
+11:13 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+11:14 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+11:14 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+11:14 [Error] Plugin filename UIKits — копия.cs must match the main class UIKits (should be UIKits.cs)

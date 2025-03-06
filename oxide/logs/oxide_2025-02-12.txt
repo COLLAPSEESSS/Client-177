@@ -1,0 +1,377 @@
+00:00 [Info] UIKits was compiled successfully in 886ms
+00:00 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+00:00 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+00:00 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+00:00 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+00:00 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 520ms
+00:00 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+00:00 [Info] UIKits was compiled successfully in 401ms
+00:00 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+00:00 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+00:00 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+00:00 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+00:00 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 283ms
+00:00 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+00:00 [Info] [Image Library] Starting order UIKits
+00:01 [Error] Error while compiling: UIKits.cs(417,17): error CS0103: The name `MainUI' does not exist in the current context
+00:01 [Error] Error while compiling: UIKits.cs(417,17): error CS0103: The name `MainUI' does not exist in the current context
+00:01 [Error] Error while compiling: UIKits.cs(417,17): error CS0103: The name `MainUI' does not exist in the current context
+00:01 [Error] Error while compiling: UIKits.cs(417,17): error CS0103: The name `MainUI' does not exist in the current context
+00:01 [Error] Error while compiling: UIKits.cs(417,17): error CS0103: The name `MainUI' does not exist in the current context
+00:01 [Error] Error while compiling: UIKits.cs(417,17): error CS0103: The name `MainUI' does not exist in the current context
+00:01 [Error] Error while compiling: UIKits.cs(417,17): error CS0103: The name `MainUI' does not exist in the current context
+00:02 [Error] Error while compiling: UIKits.cs(1214,37): error CS1525: Unexpected symbol `CuiElementContainer', expecting `class', `delegate', `enum', `interface', `partial', or `struct'
+00:03 [Info] UIKits was compiled successfully in 638ms
+00:03 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+00:03 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+00:03 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+00:03 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+00:03 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 1035ms
+00:03 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+00:04 [Info] [Image Library] Starting order UIKits
+00:05 [Info] UIKits was compiled successfully in 2839ms
+00:05 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+00:05 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+00:05 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+00:05 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+00:05 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 827ms
+00:05 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+00:06 [Info] UIKits was compiled successfully in 922ms
+00:06 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+00:06 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+00:06 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+00:06 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+00:06 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 323ms
+00:06 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+00:07 [Info] UIKits was compiled successfully in 2425ms
+00:07 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+00:07 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+00:07 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+00:07 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+00:07 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 316ms
+00:07 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+00:07 [Info] [Image Library] Starting order UIKits
+00:07 [Info] UIKits was compiled successfully in 617ms
+00:07 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+00:07 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+00:07 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+00:07 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+00:07 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 202ms [GARBAGE COLLECT]
+00:07 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+00:08 [Info] UIKits was compiled successfully in 633ms
+00:08 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+00:08 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+00:08 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+00:08 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+00:08 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 161ms
+00:08 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+00:08 [Info] UIKits was compiled successfully in 552ms
+00:08 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+00:08 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+00:08 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+00:08 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+00:08 [Warning] Calling 'OnServerInitialized' on 'UIKits v1.0.0' took 170ms
+00:08 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+20:14 [Info] Loading Oxide Core v2.0.4048...
+20:14 [Info] Loading extensions...
+20:14 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+20:14 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+20:14 [Info] Loaded extension Rust v2.0.0 by Oxide Team and Contributors
+20:14 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+20:14 [Info] Unity version: 2019.4.7f1
+20:14 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+20:15 [Error] Could not check for update to Compiler.exe
+20:15 [Error] The remote server returned an error: (522) .
+20:15 [Info] Using Covalence provider for game 'Rust'
+20:15 [Info] Loading plugins...
+20:15 [Info] Loaded plugin Rust v2.0.0 by Oxide Team and Contributors
+20:15 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+20:15 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+20:15 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+20:15 [Error] Plugin filename UIKits — копия.cs must match the main class UIKits (should be UIKits.cs)
+20:15 [Error] Plugin filename UIKits1лйшк.cs must match the main class UIKits (should be UIKits.cs)
+20:15 [Error] Plugin filename UIKitsv1.cs must match the main class UIKits (should be UIKits.cs)
+20:15 [Info] EventRandomizer, ImageLibrary, LabsLogo, NoSteamDevRust and UIKits were compiled successfully in 0ms
+20:15 [Info] Loaded plugin Event Randomizer v0.3.4 by mvrb
+20:15 [Info] Loaded plugin Image Library v2.0.48 by Absolut & K1lly0u
+20:15 [Info] Loaded plugin LabsLogo v1.0.0 by Frizen
+20:15 [Info] Loaded plugin AutoInsecure v1.0.0 by Zirper
+20:15 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+20:16 [Info] IP address from Steam query: 0.0.0.0
+20:16 [Warning] [Event Randomizer] Next Patrol Helicopter spawns in 1 ч. 39 мин. 59 сек.
+20:16 [Warning] [Event Randomizer] Next Chinook Helicopter spawns in 2 ч. 13 мин. 15 сек.
+20:16 [Warning] [Event Randomizer] Next Bradley spawns in 1 ч.
+20:16 [Warning] [Event Randomizer] Next Cargo Ship spawns in 2 ч. 30 мин.
+20:16 [Warning] [Event Randomizer] Next Airdrop spawns in 1 ч.
+20:16 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+20:16 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+20:16 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+20:16 [Info] [Image Library] Starting order UIKits
+20:16 [Error] Failed to call hook 'OnEntitySpawned' on plugin 'LabsLogo v1.0.0' (KeyNotFoundException: The given key was not present in the dictionary.)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.LabsLogo.OnEntitySpawned (BaseNetworkable entity) [0x00206] in <416b8169a6504a39a4b7b0325647c10a>:0 
+  at Oxide.Plugins.LabsLogo.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00212] in <416b8169a6504a39a4b7b0325647c10a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e130131009984c9f85bca364a8a5a454>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d1a7dbb0435a4810a34b77f92cb88163>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d1a7dbb0435a4810a34b77f92cb88163>:0 
+20:16 [Error] Error while compiling: IQReportSystem.cs(5338,45): error CS1644: Feature `declaration expression' cannot be used because it is not part of the C# 6.0 language specification
+20:16 [Info] EventRandomizer was compiled successfully in 579ms
+20:16 [Info] Unloaded plugin Event Randomizer v0.3.4 by mvrb
+20:16 [Warning] [Event Randomizer] Next Patrol Helicopter spawns in 1 ч. 21 мин. 11 сек.
+20:16 [Warning] [Event Randomizer] Next Chinook Helicopter spawns in 2 ч. 38 мин. 41 сек.
+20:16 [Warning] [Event Randomizer] Next Bradley spawns in 1 ч.
+20:16 [Warning] [Event Randomizer] Next Cargo Ship spawns in 2 ч. 56 мин. 47 сек.
+20:16 [Warning] [Event Randomizer] Next Airdrop spawns in 1 ч.
+20:16 [Info] Loaded plugin Event Randomizer v0.3.4 by mvrb
+20:16 [Error] Error while compiling: IQReportSystem.cs(5338,45): error CS1644: Feature `declaration expression' cannot be used because it is not part of the C# 6.0 language specification
+20:18 [Error] Error while compiling: IQReportSystem.cs(5340,45): error CS1644: Feature `declaration expression' cannot be used because it is not part of the C# 6.0 language specification
+20:18 [Error] Error while compiling: IQReportSystem.cs(5340,45): error CS1644: Feature `declaration expression' cannot be used because it is not part of the C# 6.0 language specification
+20:20 [Error] Error while compiling: IQReportSystem.cs(5937,38): error CS1061: Type `Network.Server' does not contain a definition for `StartWrite' and no extension method `StartWrite' of type `Network.Server' could be found. Are you missing an assembly reference?
+20:20 [Error] Error while compiling: IQReportSystem.cs(5937,38): error CS1061: Type `Network.Server' does not contain a definition for `StartWrite' and no extension method `StartWrite' of type `Network.Server' could be found. Are you missing an assembly reference?
+20:22 [Error] Error while compiling: IQReportSystem.cs(5937,25): error CS1061: Type `Network.Server' does not contain a definition for `StartWrite' and no extension method `StartWrite' of type `Network.Server' could be found. Are you missing an assembly reference?
+20:22 [Error] Error while compiling: IQReportSystem.cs(5937,25): error CS1061: Type `Network.Server' does not contain a definition for `StartWrite' and no extension method `StartWrite' of type `Network.Server' could be found. Are you missing an assembly reference?
+20:23 [Error] Error while compiling: IQReportSystem.cs(2192,63): error CS0246: The type or namespace name `Fields' could not be found. Are you missing an assembly reference?
+20:23 [Error] Error while compiling: IQReportSystem.cs(2192,63): error CS0246: The type or namespace name `Fields' could not be found. Are you missing an assembly reference?
+20:24 [Error] Error while compiling: IQReportSystem.cs(4956,22): error CS0111: A member `Oxide.Plugins.IQReportSystem.SendSound(ulong, byte[])' is already defined. Rename this member or use different parameter types
+20:24 [Error] Error while compiling: IQReportSystem.cs(4956,22): error CS0111: A member `Oxide.Plugins.IQReportSystem.SendSound(ulong, byte[])' is already defined. Rename this member or use different parameter types
+20:24 [Error] Error while compiling: IQReportSystem.cs(4956,22): error CS0111: A member `Oxide.Plugins.IQReportSystem.SendSound(ulong, byte[])' is already defined. Rename this member or use different parameter types
+20:25 [Error] Error while compiling: IQReportSystem.cs(4956,22): error CS0111: A member `Oxide.Plugins.IQReportSystem.SendSound(ulong, byte[])' is already defined. Rename this member or use different parameter types
+20:26 [Error] Error while compiling: IQReportSystem.cs(4238,36): error CS0246: The type or namespace name `PlayerInformation' could not be found. Are you missing an assembly reference?
+20:26 [Error] Error while compiling: IQReportSystem.cs(1913,36): error CS0246: The type or namespace name `ModeratorInformation' could not be found. Are you missing an assembly reference?
+20:26 [Error] Error while compiling: IQReportSystem.cs(1913,36): error CS0246: The type or namespace name `ModeratorInformation' could not be found. Are you missing an assembly reference?
+20:27 [Error] Failed to call hook 'OnEntitySpawned' on plugin 'LabsLogo v1.0.0' (KeyNotFoundException: The given key was not present in the dictionary.)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.LabsLogo.OnEntitySpawned (BaseNetworkable entity) [0x00206] in <416b8169a6504a39a4b7b0325647c10a>:0 
+  at Oxide.Plugins.LabsLogo.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00212] in <416b8169a6504a39a4b7b0325647c10a>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e130131009984c9f85bca364a8a5a454>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d1a7dbb0435a4810a34b77f92cb88163>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d1a7dbb0435a4810a34b77f92cb88163>:0 
+20:27 [Error] Error while compiling: IQReportSystem.cs(1111,36): error CS0246: The type or namespace name `PlayerRepository' could not be found. Are you missing an assembly reference?
+20:27 [Error] Error while compiling: IQReportSystem.cs(1111,36): error CS0246: The type or namespace name `PlayerRepository' could not be found. Are you missing an assembly reference?
+20:28 [Error] Error while compiling: IQReportSystem.cs(5651,13): error CS0103: The name `IQChat' does not exist in the current context
+20:28 [Error] Error while compiling: IQReportSystem.cs(5651,13): error CS0103: The name `IQChat' does not exist in the current context
+20:28 [Error] Error while compiling: IQReportSystem.cs(5641,25): error CS1061: Type `Network.Server' does not contain a definition for `StartWrite' and no extension method `StartWrite' of type `Network.Server' could be found. Are you missing an assembly reference?
+20:28 [Error] Error while compiling: IQReportSystem.cs(5641,25): error CS1061: Type `Network.Server' does not contain a definition for `StartWrite' and no extension method `StartWrite' of type `Network.Server' could be found. Are you missing an assembly reference?
+20:29 [Error] Error while compiling: IQReportSystem.cs(5641,25): error CS1061: Type `Network.Server' does not contain a definition for `StartWrite' and no extension method `StartWrite' of type `Network.Server' could be found. Are you missing an assembly reference?
+20:29 [Error] Error while compiling: IQReportSystem.cs(5641,25): error CS1061: Type `Network.Server' does not contain a definition for `StartWrite' and no extension method `StartWrite' of type `Network.Server' could be found. Are you missing an assembly reference?
+20:30 [Error] Error while compiling: IQReportSystem.cs(5647,25): error CS1061: Type `Network.Server' does not contain a definition for `StartWrite' and no extension method `StartWrite' of type `Network.Server' could be found. Are you missing an assembly reference?
+20:31 [Error] Error while compiling: IQReportSystem.cs(5647,25): error CS1061: Type `Network.Server' does not contain a definition for `StartWrite' and no extension method `StartWrite' of type `Network.Server' could be found. Are you missing an assembly reference?
+20:31 [Error] Error while compiling: IQReportSystem.cs(5647,25): error CS1061: Type `Network.Server' does not contain a definition for `StartWrite' and no extension method `StartWrite' of type `Network.Server' could be found. Are you missing an assembly reference?
+20:31 [Error] Error while compiling: IQReportSystem.cs(5647,25): error CS1061: Type `Network.Server' does not contain a definition for `StartWrite' and no extension method `StartWrite' of type `Network.Server' could be found. Are you missing an assembly reference?
+20:31 [Error] Error while compiling: IQReportSystem.cs(5647,25): error CS1061: Type `Network.Server' does not contain a definition for `StartWrite' and no extension method `StartWrite' of type `Network.Server' could be found. Are you missing an assembly reference?
+20:32 [Error] Error while compiling: IQReportSystem.cs(5657,25): error CS1061: Type `Network.Server' does not contain a definition for `StartWrite' and no extension method `StartWrite' of type `Network.Server' could be found. Are you missing an assembly reference?
+20:32 [Error] Error while compiling: IQReportSystem.cs(5657,25): error CS1061: Type `Network.Server' does not contain a definition for `StartWrite' and no extension method `StartWrite' of type `Network.Server' could be found. Are you missing an assembly reference?
+20:33 [Error] Error while compiling: IQReportSystem.cs(5578,27): error CS0234: The type or namespace name `UnityEngine' does not exist in the namespace `ProtoBuf'. Are you missing an assembly reference?
+20:33 [Error] Error while compiling: IQReportSystem.cs(5578,27): error CS0234: The type or namespace name `UnityEngine' does not exist in the namespace `ProtoBuf'. Are you missing an assembly reference?
+20:34 [Error] Error while compiling: IQReportSystem.cs(5568,27): error CS0234: The type or namespace name `UnityEngine' does not exist in the namespace `ProtoBuf'. Are you missing an assembly reference?
+21:01 [Info] Loading Oxide Core v2.0.4048...
+21:01 [Info] Loading extensions...
+21:01 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+21:01 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+21:01 [Info] Loaded extension Rust v2.0.0 by Oxide Team and Contributors
+21:01 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+21:01 [Info] Unity version: 2019.4.7f1
+21:01 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+21:01 [Error] Could not check for update to Compiler.exe
+21:01 [Error] The remote server returned an error: (522) .
+21:01 [Info] Using Covalence provider for game 'Rust'
+21:01 [Info] Loading plugins...
+21:01 [Info] Loaded plugin Rust v2.0.0 by Oxide Team and Contributors
+21:01 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+21:01 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+21:01 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+21:01 [Error] Plugin filename UIKits — копия.cs must match the main class UIKits (should be UIKits.cs)
+21:01 [Error] Plugin filename UIKits1лйшк.cs must match the main class UIKits (should be UIKits.cs)
+21:01 [Error] Plugin filename UIKitsv1.cs must match the main class UIKits (should be UIKits.cs)
+21:01 [Info] EventRandomizer, ImageLibrary, LabsLogo, NoSteamDevRust and UIKits were compiled successfully in 0ms
+21:01 [Error] Error while compiling: IQReportSystem.cs(5568,27): error CS0234: The type or namespace name `UnityEngine' does not exist in the namespace `ProtoBuf'. Are you missing an assembly reference?
+21:01 [Info] Loaded plugin Event Randomizer v0.3.4 by mvrb
+21:01 [Info] Loaded plugin Image Library v2.0.48 by Absolut & K1lly0u
+21:01 [Info] Loaded plugin LabsLogo v1.0.0 by Frizen
+21:01 [Info] Loaded plugin AutoInsecure v1.0.0 by Zirper
+21:01 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+21:02 [Info] IP address from Steam query: 0.0.0.0
+21:02 [Warning] [Event Randomizer] Next Patrol Helicopter spawns in 1 ч. 34 сек.
+21:02 [Warning] [Event Randomizer] Next Chinook Helicopter spawns in 2 ч. 18 мин. 2 сек.
+21:02 [Warning] [Event Randomizer] Next Bradley spawns in 1 ч.
+21:02 [Warning] [Event Randomizer] Next Cargo Ship spawns in 2 ч. 16 мин. 38 сек.
+21:02 [Warning] [Event Randomizer] Next Airdrop spawns in 1 ч.
+21:02 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+21:02 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+21:02 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+21:02 [Info] [Image Library] Starting order UIKits
+21:03 [Error] Failed to call hook 'OnEntitySpawned' on plugin 'LabsLogo v1.0.0' (KeyNotFoundException: The given key was not present in the dictionary.)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.LabsLogo.OnEntitySpawned (BaseNetworkable entity) [0x00206] in <45124e2c907a40bba8bff094f6972036>:0 
+  at Oxide.Plugins.LabsLogo.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00212] in <45124e2c907a40bba8bff094f6972036>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e130131009984c9f85bca364a8a5a454>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d1a7dbb0435a4810a34b77f92cb88163>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d1a7dbb0435a4810a34b77f92cb88163>:0 
+21:03 [Info] EventRandomizer was compiled successfully in 1781ms
+21:03 [Info] Unloaded plugin Event Randomizer v0.3.4 by mvrb
+21:03 [Warning] [Event Randomizer] Next Patrol Helicopter spawns in 1 ч. 6 мин. 55 сек.
+21:03 [Warning] [Event Randomizer] Next Chinook Helicopter spawns in 2 ч. 43 мин. 58 сек.
+21:03 [Warning] [Event Randomizer] Next Bradley spawns in 1 ч.
+21:03 [Warning] [Event Randomizer] Next Cargo Ship spawns in 2 ч. 57 мин. 42 сек.
+21:03 [Warning] [Event Randomizer] Next Airdrop spawns in 1 ч.
+21:03 [Info] Loaded plugin Event Randomizer v0.3.4 by mvrb
+21:08 [Error] Oxide.Ext.Chaos is referenced by SkinBox plugin but is not loaded
+21:12 [Info] ChaosExtensionDownloader was compiled successfully in 1732ms
+21:12 [Info] Loaded plugin ChaosExtensionDownloader v0.1.0 by k1lly0u
+21:12 [Info] Loaded extension Chaos v1.0.34 by k1lly0u
+21:12 [Info] Loaded plugin Chaos Automatic Updater v1.0.0 by k1lly0u
+21:12 [Info] Loaded plugin Plugin Interface v1.0.0 by k1lly0u
+21:12 [Warning] Reference Unity.Mathematics.dll from Oxide.Ext.Chaos.dll not found
+21:12 [Warning] Reference Unity.Mathematics.dll from Oxide.Ext.Chaos.dll not found
+21:12 [Error] Plugin filename UIKits — копия.cs must match the main class UIKits (should be UIKits.cs)
+21:12 [Error] Plugin filename UIKits1лйшк.cs must match the main class UIKits (should be UIKits.cs)
+21:12 [Error] Plugin filename UIKitsv1.cs must match the main class UIKits (should be UIKits.cs)
+21:12 [Error] Error while compiling: IQReportSystem.cs(5568,27): error CS0234: The type or namespace name `UnityEngine' does not exist in the namespace `ProtoBuf'. Are you missing an assembly reference?
+21:12 [Error] Error while compiling: SkinBox.cs(3054,8): error CS1525: Unexpected symbol `}'
+21:12 [Info] Usage: oxide.reload *|<pluginname>+
+21:12 [Info] UIKits was compiled successfully in 243ms
+21:12 [Info] Unloaded plugin UIKits v1.0.0 by XAVIER
+21:12 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+21:12 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+21:12 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+21:12 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+21:12 [Info] [Image Library] Starting order UIKits
+21:12 [Warning] Reference Unity.Mathematics.dll from Oxide.Ext.Chaos.dll not found
+21:12 [Warning] Reference Unity.Mathematics.dll from Oxide.Ext.Chaos.dll not found
+21:12 [Error] Error while compiling: SkinBox.cs(3054,8): error CS1525: Unexpected symbol `}'
+21:13 [Error] Failed to call hook 'OnEntitySpawned' on plugin 'LabsLogo v1.0.0' (KeyNotFoundException: The given key was not present in the dictionary.)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.LabsLogo.OnEntitySpawned (BaseNetworkable entity) [0x00206] in <45124e2c907a40bba8bff094f6972036>:0 
+  at Oxide.Plugins.LabsLogo.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00212] in <45124e2c907a40bba8bff094f6972036>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e130131009984c9f85bca364a8a5a454>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d1a7dbb0435a4810a34b77f92cb88163>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d1a7dbb0435a4810a34b77f92cb88163>:0 
+21:15 [Warning] Reference Unity.Mathematics.dll from Oxide.Ext.Chaos.dll not found
+21:15 [Warning] Reference Unity.Mathematics.dll from Oxide.Ext.Chaos.dll not found
+21:15 [Error] Error while compiling: SkinBox.cs(3054,8): error CS1525: Unexpected symbol `}'
+21:16 [Warning] Reference Unity.Mathematics.dll from Oxide.Ext.Chaos.dll not found
+21:16 [Warning] Reference Unity.Mathematics.dll from Oxide.Ext.Chaos.dll not found
+21:16 [Error] Error while compiling: SkinBox.cs(3054,8): error CS1525: Unexpected symbol `}'
+21:17 [Warning] Reference Unity.Mathematics.dll from Oxide.Ext.Chaos.dll not found
+21:17 [Warning] Reference Unity.Mathematics.dll from Oxide.Ext.Chaos.dll not found
+21:17 [Error] Error while compiling: SkinBox.cs(3054,8): error CS1525: Unexpected symbol `}'
+21:17 [Warning] Reference Unity.Mathematics.dll from Oxide.Ext.Chaos.dll not found
+21:17 [Warning] Reference Unity.Mathematics.dll from Oxide.Ext.Chaos.dll not found
+21:17 [Error] Error while compiling: SkinBox.cs(3054,8): error CS1525: Unexpected symbol `}'
+21:18 [Warning] Reference Unity.Mathematics.dll from Oxide.Ext.Chaos.dll not found
+21:18 [Warning] Reference Unity.Mathematics.dll from Oxide.Ext.Chaos.dll not found
+21:18 [Error] Error while compiling: SkinBox.cs(3054,8): error CS1525: Unexpected symbol `}'
+21:19 [Warning] Reference Unity.Mathematics.dll from Oxide.Ext.Chaos.dll not found
+21:19 [Warning] Reference Unity.Mathematics.dll from Oxide.Ext.Chaos.dll not found
+21:19 [Error] Error while compiling: SkinBox.cs(3054,8): error CS1525: Unexpected symbol `}'
+21:19 [Warning] Reference Unity.Mathematics.dll from Oxide.Ext.Chaos.dll not found
+21:19 [Warning] Reference Unity.Mathematics.dll from Oxide.Ext.Chaos.dll not found
+21:19 [Error] Error while compiling: SkinBox.cs(3054,8): error CS1525: Unexpected symbol `}'
+21:20 [Warning] Reference Unity.Mathematics.dll from Oxide.Ext.Chaos.dll not found
+21:20 [Warning] Reference Unity.Mathematics.dll from Oxide.Ext.Chaos.dll not found
+21:20 [Error] Error while compiling: SkinBox.cs(3054,8): error CS1525: Unexpected symbol `}'
+21:20 [Warning] Reference Unity.Mathematics.dll from Oxide.Ext.Chaos.dll not found
+21:20 [Warning] Reference Unity.Mathematics.dll from Oxide.Ext.Chaos.dll not found
+21:20 [Error] Error while compiling: SkinBox.cs(3054,8): error CS1525: Unexpected symbol `}'
+21:20 [Warning] Reference Unity.Mathematics.dll from Oxide.Ext.Chaos.dll not found
+21:20 [Warning] Reference Unity.Mathematics.dll from Oxide.Ext.Chaos.dll not found
+21:20 [Error] Error while compiling: SkinBox.cs(3054,8): error CS1525: Unexpected symbol `}'
+21:20 [Warning] Reference Unity.Mathematics.dll from Oxide.Ext.Chaos.dll not found
+21:20 [Warning] Reference Unity.Mathematics.dll from Oxide.Ext.Chaos.dll not found
+21:20 [Error] Error while compiling: SkinBox.cs(3054,8): error CS1525: Unexpected symbol `}'
+21:22 [Warning] Reference Unity.Mathematics.dll from Oxide.Ext.Chaos.dll not found
+21:22 [Warning] Reference Unity.Mathematics.dll from Oxide.Ext.Chaos.dll not found
+21:22 [Error] Error while compiling: SkinBox.cs(3054,8): error CS1525: Unexpected symbol `}'
+21:22 [Warning] Reference Unity.Mathematics.dll from Oxide.Ext.Chaos.dll not found
+21:22 [Warning] Reference Unity.Mathematics.dll from Oxide.Ext.Chaos.dll not found
+21:22 [Error] Error while compiling: SkinBox.cs(3054,8): error CS1525: Unexpected symbol `}'
+21:23 [Error] Failed to call hook 'OnEntitySpawned' on plugin 'LabsLogo v1.0.0' (KeyNotFoundException: The given key was not present in the dictionary.)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.LabsLogo.OnEntitySpawned (BaseNetworkable entity) [0x00206] in <45124e2c907a40bba8bff094f6972036>:0 
+  at Oxide.Plugins.LabsLogo.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00212] in <45124e2c907a40bba8bff094f6972036>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e130131009984c9f85bca364a8a5a454>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d1a7dbb0435a4810a34b77f92cb88163>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d1a7dbb0435a4810a34b77f92cb88163>:0 
+21:24 [Warning] Reference Unity.Mathematics.dll from Oxide.Ext.Chaos.dll not found
+21:24 [Warning] Reference Unity.Mathematics.dll from Oxide.Ext.Chaos.dll not found
+21:24 [Error] Error while compiling: SkinBox.cs(3054,8): error CS1525: Unexpected symbol `}'
+21:24 [Warning] Reference Unity.Mathematics.dll from Oxide.Ext.Chaos.dll not found
+21:24 [Warning] Reference Unity.Mathematics.dll from Oxide.Ext.Chaos.dll not found
+21:24 [Error] Error while compiling: SkinBox.cs(3054,8): error CS1525: Unexpected symbol `}'
+21:25 [Warning] Reference Unity.Mathematics.dll from Oxide.Ext.Chaos.dll not found
+21:25 [Warning] Reference Unity.Mathematics.dll from Oxide.Ext.Chaos.dll not found
+21:25 [Error] Plugin filename SkinBox (1).cs must match the main class SkinBox (should be SkinBox.cs)
+21:25 [Warning] Reference Unity.Mathematics.dll from Oxide.Ext.Chaos.dll not found
+21:25 [Warning] Reference Unity.Mathematics.dll from Oxide.Ext.Chaos.dll not found
+21:25 [Error] Plugin filename SkinBox (1).cs must match the main class SkinBox (should be SkinBox.cs)
+21:25 [Warning] Reference Unity.Mathematics.dll from Oxide.Ext.Chaos.dll not found
+21:25 [Warning] Reference Unity.Mathematics.dll from Oxide.Ext.Chaos.dll not found
+21:25 [Error] Error while compiling: SkinBox.cs(3054,8): error CS1525: Unexpected symbol `}'
+21:30 [Warning] Reference Unity.Mathematics.dll from Oxide.Ext.Chaos.dll not found
+21:30 [Warning] Reference Unity.Mathematics.dll from Oxide.Ext.Chaos.dll not found
+21:30 [Error] Error while compiling: SkinBox.cs(3054,8): error CS1525: Unexpected symbol `}'
+21:49 [Info] Loading Oxide Core v2.0.4048...
+21:49 [Info] Loading extensions...
+21:49 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+21:49 [Info] Loaded extension Chaos v1.0.34 by k1lly0u
+21:49 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+21:49 [Info] Loaded extension Rust v2.0.0 by Oxide Team and Contributors
+21:49 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+21:49 [Info] Unity version: 2019.4.7f1
+21:49 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+21:49 [Error] Could not check for update to Compiler.exe
+21:49 [Error] The remote server returned an error: (522) .
+21:49 [Info] Using Covalence provider for game 'Rust'
+21:49 [Info] Loading plugins...
+21:49 [Info] Loaded plugin Chaos Automatic Updater v1.0.0 by k1lly0u
+21:49 [Info] Loaded plugin Plugin Interface v1.0.0 by k1lly0u
+21:49 [Info] Loaded plugin Rust v2.0.0 by Oxide Team and Contributors
+21:49 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+21:49 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+21:49 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+21:49 [Error] Plugin filename UIKits — копия.cs must match the main class UIKits (should be UIKits.cs)
+21:49 [Error] Plugin filename UIKits1лйшк.cs must match the main class UIKits (should be UIKits.cs)
+21:49 [Error] Plugin filename UIKitsv1.cs must match the main class UIKits (should be UIKits.cs)
+21:49 [Info] ChaosExtensionDownloader, EventRandomizer, ImageLibrary, LabsLogo, NoSteamDevRust and UIKits were compiled successfully in 0ms
+21:49 [Error] Error while compiling: IQReportSystem.cs(5568,27): error CS0234: The type or namespace name `UnityEngine' does not exist in the namespace `ProtoBuf'. Are you missing an assembly reference?
+21:49 [Info] Loaded plugin ChaosExtensionDownloader v0.1.0 by k1lly0u
+21:49 [Info] Loaded plugin Event Randomizer v0.3.4 by mvrb
+21:49 [Info] Loaded plugin Image Library v2.0.48 by Absolut & K1lly0u
+21:49 [Info] Loaded plugin LabsLogo v1.0.0 by Frizen
+21:49 [Info] Loaded plugin AutoInsecure v1.0.0 by Zirper
+21:49 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+21:50 [Info] IP address from Steam query: 0.0.0.0
+21:50 [Warning] [Event Randomizer] Next Patrol Helicopter spawns in 1 ч. 44 мин. 3 сек.
+21:50 [Warning] [Event Randomizer] Next Chinook Helicopter spawns in 3 ч. 27 мин. 44 сек.
+21:50 [Warning] [Event Randomizer] Next Bradley spawns in 1 ч.
+21:50 [Warning] [Event Randomizer] Next Cargo Ship spawns in 2 ч. 54 мин. 25 сек.
+21:50 [Warning] [Event Randomizer] Next Airdrop spawns in 1 ч.
+21:50 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+21:50 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+21:50 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+21:50 [Info] [Image Library] Starting order UIKits
+21:51 [Error] Failed to call hook 'OnEntitySpawned' on plugin 'LabsLogo v1.0.0' (KeyNotFoundException: The given key was not present in the dictionary.)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.LabsLogo.OnEntitySpawned (BaseNetworkable entity) [0x00206] in <7bcc2ab1b52149cfb3b71c7121b4d42c>:0 
+  at Oxide.Plugins.LabsLogo.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00212] in <7bcc2ab1b52149cfb3b71c7121b4d42c>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e130131009984c9f85bca364a8a5a454>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d1a7dbb0435a4810a34b77f92cb88163>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d1a7dbb0435a4810a34b77f92cb88163>:0 
+21:51 [Info] EventRandomizer was compiled successfully in 1821ms
+21:51 [Info] Unloaded plugin Event Randomizer v0.3.4 by mvrb
+21:51 [Warning] [Event Randomizer] Next Patrol Helicopter spawns in 1 ч. 59 мин. 49 сек.
+21:51 [Warning] [Event Randomizer] Next Chinook Helicopter spawns in 2 ч. 37 мин. 30 сек.
+21:51 [Warning] [Event Randomizer] Next Bradley spawns in 1 ч.
+21:51 [Warning] [Event Randomizer] Next Cargo Ship spawns in 2 ч. 34 мин. 58 сек.
+21:51 [Warning] [Event Randomizer] Next Airdrop spawns in 1 ч.
+21:51 [Info] Loaded plugin Event Randomizer v0.3.4 by mvrb
+21:53 [Info] SkinBox was compiled successfully in 1936ms
+21:53 [Info] Loaded plugin SkinBox v2.0.14 by k1lly0u
+21:53 [Info] Unloaded plugin SkinBox v2.0.14 by k1lly0u
+22:01 [Error] Failed to call hook 'OnEntitySpawned' on plugin 'LabsLogo v1.0.0' (KeyNotFoundException: The given key was not present in the dictionary.)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.LabsLogo.OnEntitySpawned (BaseNetworkable entity) [0x00206] in <7bcc2ab1b52149cfb3b71c7121b4d42c>:0 
+  at Oxide.Plugins.LabsLogo.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00212] in <7bcc2ab1b52149cfb3b71c7121b4d42c>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e130131009984c9f85bca364a8a5a454>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d1a7dbb0435a4810a34b77f92cb88163>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d1a7dbb0435a4810a34b77f92cb88163>:0 

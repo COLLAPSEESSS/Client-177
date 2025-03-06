@@ -1,0 +1,159 @@
+00:01 [Info] Loading Oxide Core v2.0.4048...
+00:01 [Info] Loading extensions...
+00:01 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+00:01 [Info] Loaded extension Chaos v1.0.34 by k1lly0u
+00:01 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+00:01 [Info] Loaded extension Rust v2.0.0 by Oxide Team and Contributors
+00:01 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+00:01 [Info] Unity version: 2019.4.7f1
+00:01 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+00:02 [Error] Could not check for update to Compiler.exe
+00:02 [Error] The remote server returned an error: (522) .
+00:02 [Info] Using Covalence provider for game 'Rust'
+00:02 [Info] Loading plugins...
+00:02 [Info] Loaded plugin Chaos Automatic Updater v1.0.0 by k1lly0u
+00:02 [Info] Loaded plugin Plugin Interface v1.0.0 by k1lly0u
+00:02 [Info] Loaded plugin Rust v2.0.0 by Oxide Team and Contributors
+00:02 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+00:02 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+00:02 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+00:02 [Error] Plugin filename UIKits — копия.cs must match the main class UIKits (should be UIKits.cs)
+00:02 [Error] Plugin filename UIKits1лйшк.cs must match the main class UIKits (should be UIKits.cs)
+00:02 [Error] Plugin filename UIKitsv1.cs must match the main class UIKits (should be UIKits.cs)
+00:02 [Info] ChaosExtensionDownloader, EventRandomizer, ImageLibrary, IQChat, LabsLogo, NoSteamDevRust and UIKits were compiled successfully in 0ms
+00:02 [Error] Error while compiling: IQReportSystem.cs(5568,27): error CS0234: The type or namespace name `UnityEngine' does not exist in the namespace `ProtoBuf'. Are you missing an assembly reference?
+00:02 [Info] Loaded plugin ChaosExtensionDownloader v0.1.0 by k1lly0u
+00:02 [Info] Loaded plugin Event Randomizer v0.3.4 by mvrb
+00:02 [Info] Loaded plugin Image Library v2.0.48 by Absolut & K1lly0u
+00:02 [Warning] Version `2.3.46.2` is invalid for IQChat, should be `major.minor.patch`
+00:02 [Warning] [IQChat] Языковой файл загружается...
+00:02 [Warning] [IQChat] Языковой файл загружен успешно
+00:02 [Info] Loaded plugin IQChat v2.3.46 by SkuliDropek
+00:02 [Info] Loaded plugin LabsLogo v1.0.0 by Frizen
+00:02 [Info] Loaded plugin AutoInsecure v1.0.0 by Zirper
+00:02 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+00:07 [Info] Loading Oxide Core v2.0.4048...
+00:07 [Info] Loading extensions...
+00:07 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+00:07 [Info] Loaded extension Chaos v1.0.34 by k1lly0u
+00:07 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+00:07 [Info] Loaded extension Rust v2.0.0 by Oxide Team and Contributors
+00:07 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+00:07 [Info] Unity version: 2019.4.7f1
+00:07 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+00:08 [Error] Could not check for update to Compiler.exe
+00:08 [Error] The remote server returned an error: (522) .
+00:08 [Info] Using Covalence provider for game 'Rust'
+00:08 [Info] Loading plugins...
+00:08 [Info] Loaded plugin Chaos Automatic Updater v1.0.0 by k1lly0u
+00:08 [Info] Loaded plugin Plugin Interface v1.0.0 by k1lly0u
+00:08 [Info] Loaded plugin Rust v2.0.0 by Oxide Team and Contributors
+00:08 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+00:08 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+00:08 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+00:08 [Error] Plugin filename UIKits — копия.cs must match the main class UIKits (should be UIKits.cs)
+00:08 [Warning] Compiler may have been closed by interference from security software or install is missing files
+00:08 [Error] Error while compiling: compiler version  disconnected
+00:08 [Error] Error while compiling: compiler version  disconnected
+00:08 [Error] Error while compiling: compiler version  disconnected
+00:08 [Error] Error while compiling: compiler version  disconnected
+00:08 [Error] Error while compiling: compiler version  disconnected
+00:08 [Error] Error while compiling: compiler version  disconnected
+00:08 [Error] Error while compiling: compiler version  disconnected
+00:08 [Error] Error while compiling: compiler version  disconnected
+00:08 [Error] Plugin filename UIKits1.1v.cs must match the main class UIKits (should be UIKits.cs)
+00:08 [Warning] Ignored unexpected plugin compilation failure: UIKits1.1v
+00:09 [Error] Timed out waiting for plugin to be compiled: UIKits1.1v
+00:10 [Info] IP address from Steam query: 0.0.0.0
+00:11 [Warning] Compiler may have been closed by interference from security software or install is missing files
+00:11 [Error] Error while compiling: compiler version  disconnected
+00:11 [Error] Error while compiling: compiler version  disconnected
+00:11 [Info] Usage: oxide.reload *|<pluginname>+
+00:11 [Error] Error while compiling: compiler version  disconnected
+00:11 [Info] Loading Oxide Core v2.0.4048...
+00:11 [Info] Loading extensions...
+00:11 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+00:11 [Info] Loaded extension Chaos v1.0.34 by k1lly0u
+00:11 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+00:11 [Info] Loaded extension Rust v2.0.0 by Oxide Team and Contributors
+00:11 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+00:11 [Info] Unity version: 2019.4.7f1
+00:11 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+00:12 [Error] Could not check for update to Compiler.exe
+00:12 [Error] The remote server returned an error: (522) .
+00:12 [Info] Using Covalence provider for game 'Rust'
+00:12 [Info] Loading plugins...
+00:12 [Info] Loaded plugin Chaos Automatic Updater v1.0.0 by k1lly0u
+00:12 [Info] Loaded plugin Plugin Interface v1.0.0 by k1lly0u
+00:12 [Info] Loaded plugin Rust v2.0.0 by Oxide Team and Contributors
+00:12 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+00:12 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+00:12 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+00:12 [Error] Plugin filename UIKits1.1v.cs must match the main class UIKits (should be UIKits.cs)
+00:12 [Warning] Compiler may have been closed by interference from security software or install is missing files
+00:12 [Error] Error while compiling: compiler version  disconnected
+00:12 [Error] Error while compiling: compiler version  disconnected
+00:12 [Error] Error while compiling: compiler version  disconnected
+00:12 [Error] Error while compiling: compiler version  disconnected
+00:12 [Error] Error while compiling: compiler version  disconnected
+00:12 [Error] Error while compiling: compiler version  disconnected
+00:12 [Error] Error while compiling: compiler version  disconnected
+00:12 [Error] Error while compiling: compiler version  disconnected
+00:14 [Info] IP address from Steam query: 0.0.0.0
+00:14 [Warning] Compiler may have been closed by interference from security software or install is missing files
+00:14 [Error] Error while compiling: compiler version  disconnected
+00:16 [Info] Loading Oxide Core v2.0.4048...
+00:16 [Info] Loading extensions...
+00:16 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+00:16 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+00:16 [Info] Loaded extension Rust v2.0.0 by Oxide Team and Contributors
+00:16 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+00:16 [Info] Unity version: 2019.4.7f1
+00:16 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+00:16 [Error] Could not check for update to Compiler.exe
+00:16 [Error] The remote server returned an error: (522) .
+00:16 [Info] Using Covalence provider for game 'Rust'
+00:16 [Info] Loading plugins...
+00:16 [Info] Loaded plugin Rust v2.0.0 by Oxide Team and Contributors
+00:16 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+00:16 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+00:16 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+00:16 [Error] Plugin filename UIKits1.1v.cs must match the main class UIKits (should be UIKits.cs)
+00:17 [Warning] Compiler may have been closed by interference from security software or install is missing files
+00:17 [Error] Error while compiling: compiler version  disconnected
+00:17 [Error] Error while compiling: compiler version  disconnected
+00:17 [Error] Error while compiling: compiler version  disconnected
+00:17 [Error] Error while compiling: compiler version  disconnected
+00:17 [Error] Error while compiling: compiler version  disconnected
+00:17 [Error] Error while compiling: compiler version  disconnected
+00:17 [Error] Error while compiling: compiler version  disconnected
+22:24 [Info] Loading Oxide Core v2.0.4048...
+22:24 [Info] Loading extensions...
+22:24 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+22:24 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+22:24 [Info] Loaded extension Rust v2.0.0 by Oxide Team and Contributors
+22:24 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+22:24 [Info] Unity version: 2019.4.7f1
+22:24 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+22:25 [Error] Could not check for update to Compiler.exe
+22:25 [Error] The remote server returned an error: (522) .
+22:25 [Info] Using Covalence provider for game 'Rust'
+22:25 [Info] Loading plugins...
+22:25 [Info] Loaded plugin Rust v2.0.0 by Oxide Team and Contributors
+22:25 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+22:25 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+22:25 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+22:25 [Error] Plugin filename UIKits — копия.cs must match the main class UIKits (should be UIKits.cs)
+22:25 [Error] Plugin filename UIKits1.1v.cs must match the main class UIKits (should be UIKits.cs)
+22:25 [Info] EventRandomizer, ImageLibrary, IQChat, LabsLogo, NoSteamDevRust and UIKits were compiled successfully in 0ms
+22:25 [Error] Error while compiling: Clan.cs(1036,37): error CS0173: Type of conditional expression cannot be determined because there is no implicit conversion between `null' and `bool'
+22:25 [Info] Loaded plugin Event Randomizer v0.3.4 by mvrb
+22:25 [Info] Loaded plugin Image Library v2.0.48 by Absolut & K1lly0u
+22:25 [Warning] Version `2.3.46.2` is invalid for IQChat, should be `major.minor.patch`
+22:25 [Warning] [IQChat] Языковой файл загружается...
+22:25 [Warning] [IQChat] Языковой файл загружен успешно
+22:25 [Warning] Calling 'LoadDefaultMessages' on 'IQChat v2.3.46' took 160ms
+22:25 [Info] Loaded plugin IQChat v2.3.46 by SkuliDropek
+22:25 [Info] Loaded plugin LabsLogo v1.0.0 by Frizen
+22:25 [Info] Loaded plugin AutoInsecure v1.0.0 by Zirper
+22:25 [Info] Loaded plugin UIKits v1.0.0 by XAVIER

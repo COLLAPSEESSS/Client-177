@@ -1,0 +1,28 @@
+{
+  "76561199073826549": [
+    {
+      "Number": 2363,
+      "DisplayName": "bonus",
+      "Cooldown": 1739308154.0,
+      "UsageCount": 1
+    },
+    {
+      "Number": 2363,
+      "DisplayName": "heal",
+      "Cooldown": 1739309754.0,
+      "UsageCount": 1
+    },
+    {
+      "Number": 2363,
+      "DisplayName": "Медикаменты",
+      "Cooldown": 1739309784.0,
+      "UsageCount": 1
+    },
+    {
+      "Number": 2363,
+      "DisplayName": "start",
+      "Cooldown": 1739309792.0,
+      "UsageCount": 1
+    }
+  ]
+}

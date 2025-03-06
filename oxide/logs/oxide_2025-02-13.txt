@@ -1,0 +1,85 @@
+00:45 [Info] Loading Oxide Core v2.0.4048...
+00:45 [Info] Loading extensions...
+00:45 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+00:45 [Info] Loaded extension Chaos v1.0.34 by k1lly0u
+00:45 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+00:45 [Info] Loaded extension Rust v2.0.0 by Oxide Team and Contributors
+00:45 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+00:45 [Info] Unity version: 2019.4.7f1
+00:45 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+00:45 [Error] Could not check for update to Compiler.exe
+00:45 [Error] The remote server returned an error: (522) .
+00:45 [Info] Using Covalence provider for game 'Rust'
+00:45 [Info] Loading plugins...
+00:45 [Info] Loaded plugin Chaos Automatic Updater v1.0.0 by k1lly0u
+00:45 [Info] Loaded plugin Plugin Interface v1.0.0 by k1lly0u
+00:45 [Info] Loaded plugin Rust v2.0.0 by Oxide Team and Contributors
+00:45 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+00:45 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+00:45 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+00:45 [Error] Plugin filename UIKits — копия.cs must match the main class UIKits (should be UIKits.cs)
+00:45 [Error] Plugin filename UIKits1лйшк.cs must match the main class UIKits (should be UIKits.cs)
+00:45 [Error] Plugin filename UIKitsv1.cs must match the main class UIKits (should be UIKits.cs)
+00:46 [Info] ChaosExtensionDownloader, EventRandomizer, ImageLibrary, IQChat, LabsLogo, NoSteamDevRust and UIKits were compiled successfully in 0ms
+00:46 [Error] Error while compiling: IQReportSystem.cs(5568,27): error CS0234: The type or namespace name `UnityEngine' does not exist in the namespace `ProtoBuf'. Are you missing an assembly reference?
+00:46 [Info] Loaded plugin ChaosExtensionDownloader v0.1.0 by k1lly0u
+00:46 [Info] Loaded plugin Event Randomizer v0.3.4 by mvrb
+00:46 [Info] Loaded plugin Image Library v2.0.48 by Absolut & K1lly0u
+00:46 [Warning] Version `2.3.46.2` is invalid for IQChat, should be `major.minor.patch`
+00:46 [Warning] [IQChat] Языковой файл загружается...
+00:46 [Warning] [IQChat] Языковой файл загружен успешно
+00:46 [Info] Loaded plugin IQChat v2.3.46 by SkuliDropek
+00:46 [Info] Loaded plugin LabsLogo v1.0.0 by Frizen
+00:46 [Info] Loaded plugin AutoInsecure v1.0.0 by Zirper
+00:46 [Info] Loaded plugin UIKits v1.0.0 by XAVIER
+00:47 [Info] IP address from Steam query: 0.0.0.0
+00:47 [Warning] [Event Randomizer] Next Patrol Helicopter spawns in 1 ч. 17 мин. 34 сек.
+00:47 [Warning] [Event Randomizer] Next Chinook Helicopter spawns in 2 ч. 6 мин. 15 сек.
+00:47 [Warning] [Event Randomizer] Next Bradley spawns in 1 ч.
+00:47 [Warning] [Event Randomizer] Next Cargo Ship spawns in 2 ч. 47 мин.
+00:47 [Warning] [Event Randomizer] Next Airdrop spawns in 1 ч.
+00:47 [Warning] [Image Library] The CommunityEntity instance ID has changed! Due to the way CUI works in Rust all previously stored images must be removed and re-stored using the new ID as reference so clients can find the images. These images will be added to a new load order. Interupting this process will result in being required to re-download these images from the web
+00:47 [Warning] [Image Library] -684 images queued for restoration, 684 images failed
+00:47 [Warning] [IQChat] Генерируем интерфейс, ожидайте ~10-15 секунд!
+00:47 [Warning] [IQChat] Permissions - completed
+00:47 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsdefault.use' (by plugin 'UIKits')
+00:47 [Warning] Missing plugin name prefix 'uikits' for permission 'kitsbonus.use' (by plugin 'UIKits')
+00:47 [Warning] Missing plugin name prefix 'uikits' for permission 'kits1.use' (by plugin 'UIKits')
+00:47 [Info] [Image Library] Starting order Image restoration from previous database
+00:47 [Info] [Image Library] Starting order UIKits
+00:47 [Warning] [IQChat] Интерфейс успешно загружен!
+00:47 [Info] EventRandomizer was compiled successfully in 2120ms
+00:47 [Info] Unloaded plugin Event Randomizer v0.3.4 by mvrb
+00:47 [Warning] [Event Randomizer] Next Patrol Helicopter spawns in 1 ч. 40 мин. 46 сек.
+00:47 [Warning] [Event Randomizer] Next Chinook Helicopter spawns in 3 ч. 12 мин. 7 сек.
+00:47 [Warning] [Event Randomizer] Next Bradley spawns in 1 ч.
+00:47 [Warning] [Event Randomizer] Next Cargo Ship spawns in 2 ч. 29 мин. 4 сек.
+00:47 [Warning] [Event Randomizer] Next Airdrop spawns in 1 ч.
+00:47 [Info] Loaded plugin Event Randomizer v0.3.4 by mvrb
+00:48 [Info] IQChat was compiled successfully in 2036ms
+00:48 [Info] Unloaded plugin IQChat v2.3.46 by SkuliDropek
+00:48 [Warning] Version `2.3.46.2` is invalid for IQChat, should be `major.minor.patch`
+00:48 [Warning] [IQChat] Языковой файл загружается...
+00:48 [Warning] [IQChat] Языковой файл загружен успешно
+00:48 [Warning] [IQChat] Генерируем интерфейс, ожидайте ~10-15 секунд!
+00:48 [Warning] [IQChat] Permissions - completed
+00:48 [Info] Loaded plugin IQChat v2.3.46 by SkuliDropek
+00:49 [Warning] [IQChat] Интерфейс успешно загружен!
+00:51 [Info] IQChat was compiled successfully in 2847ms
+00:51 [Info] Unloaded plugin IQChat v2.3.46 by SkuliDropek
+00:51 [Warning] Version `2.3.46.2` is invalid for IQChat, should be `major.minor.patch`
+00:51 [Warning] [IQChat] Языковой файл загружается...
+00:51 [Warning] [IQChat] Языковой файл загружен успешно
+00:51 [Warning] [IQChat] wait, wait wait
+00:51 [Warning] [IQChat] Permissions - completed
+00:51 [Info] Loaded plugin IQChat v2.3.46 by SkuliDropek
+00:51 [Warning] [IQChat] Интерфейс успешно загружен!
+00:53 [Info] IQChat was compiled successfully in 5153ms
+00:53 [Info] Unloaded plugin IQChat v2.3.46 by SkuliDropek
+00:53 [Warning] Version `2.3.46.2` is invalid for IQChat, should be `major.minor.patch`
+00:53 [Warning] [IQChat] Языковой файл загружается...
+00:53 [Warning] [IQChat] Языковой файл загружен успешно
+00:53 [Warning] [IQChat] wait, wait wait
+00:53 [Warning] [IQChat] Permissions - completed
+00:53 [Info] Loaded plugin IQChat v2.3.46 by SkuliDropek
+00:53 [Warning] [IQChat] yra zagrez!

@@ -1,0 +1,219 @@
+10:33 [Info] Loading Oxide Core v2.0.4048...
+10:33 [Info] Loading extensions...
+10:33 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+10:33 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+10:33 [Info] Loaded extension Rust v2.0.0 by Oxide Team and Contributors
+10:33 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+10:33 [Info] Unity version: 2019.4.7f1
+10:33 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+10:34 [Error] Could not check for update to Compiler.exe
+10:34 [Error] The remote server returned an error: (522) .
+10:34 [Info] Using Covalence provider for game 'Rust'
+10:34 [Info] Loading plugins...
+10:34 [Info] Loaded plugin Rust v2.0.0 by Oxide Team and Contributors
+10:34 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+10:34 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+10:34 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+10:34 [Error] Plugin filename UIKits — копия.cs must match the main class UIKits (should be UIKits.cs)
+10:41 [Info] Loading Oxide Core v2.0.4048...
+10:41 [Info] Loading extensions...
+10:41 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+10:41 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+10:41 [Info] Loaded extension Rust v2.0.0 by Oxide Team and Contributors
+10:41 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+10:41 [Info] Unity version: 2019.4.7f1
+10:41 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+10:42 [Error] Could not check for update to Compiler.exe
+10:42 [Error] The remote server returned an error: (522) .
+10:42 [Info] Using Covalence provider for game 'Rust'
+10:42 [Info] Loading plugins...
+10:42 [Info] Loaded plugin Rust v2.0.0 by Oxide Team and Contributors
+10:42 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+10:42 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+10:42 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+10:42 [Error] Plugin filename UIKits — копия.cs must match the main class UIKits (should be UIKits.cs)
+10:42 [Error] Plugin filename UIKits1.1v.cs must match the main class UIKits (should be UIKits.cs)
+10:43 [Info] Loading Oxide Core v2.0.4048...
+10:43 [Info] Loading extensions...
+10:43 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+10:43 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+10:43 [Info] Loaded extension Rust v2.0.0 by Oxide Team and Contributors
+10:43 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+10:43 [Info] Unity version: 2019.4.7f1
+10:43 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+10:44 [Error] Could not check for update to Compiler.exe
+10:44 [Error] The remote server returned an error: (522) .
+10:44 [Info] Using Covalence provider for game 'Rust'
+10:44 [Info] Loading plugins...
+10:44 [Info] Loaded plugin Rust v2.0.0 by Oxide Team and Contributors
+10:44 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+10:44 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+10:44 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+10:44 [Error] Plugin filename UIKits — копия.cs must match the main class UIKits (should be UIKits.cs)
+10:44 [Error] Plugin filename UIKits1.1v.cs must match the main class UIKits (should be UIKits.cs)
+10:46 [Info] Loading Oxide Core v2.0.4048...
+10:46 [Info] Loading extensions...
+10:46 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+10:46 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+10:46 [Info] Loaded extension Rust v2.0.0 by Oxide Team and Contributors
+10:46 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+10:46 [Info] Unity version: 2019.4.7f1
+10:46 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+10:47 [Error] Could not check for update to Compiler.exe
+10:47 [Error] The remote server returned an error: (522) .
+10:47 [Info] Using Covalence provider for game 'Rust'
+10:47 [Info] Loading plugins...
+10:47 [Info] Loaded plugin Rust v2.0.0 by Oxide Team and Contributors
+10:47 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+10:47 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+10:47 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+10:47 [Error] Plugin filename UIKits — копия.cs must match the main class UIKits (should be UIKits.cs)
+10:47 [Error] Plugin filename UIKits1.1v.cs must match the main class UIKits (should be UIKits.cs)
+11:08 [Info] Loading Oxide Core v2.0.4048...
+11:08 [Info] Loading extensions...
+11:08 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+11:08 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+11:08 [Info] Loaded extension Rust v2.0.0 by Oxide Team and Contributors
+11:08 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+11:08 [Info] Unity version: 2019.4.7f1
+11:08 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+11:09 [Error] Could not check for update to Compiler.exe
+11:09 [Error] The remote server returned an error: (522) .
+11:09 [Info] Using Covalence provider for game 'Rust'
+11:09 [Info] Loading plugins...
+11:09 [Info] Loaded plugin Rust v2.0.0 by Oxide Team and Contributors
+11:09 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+11:09 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+11:09 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+11:09 [Error] Plugin filename UIKits — копия.cs must match the main class UIKits (should be UIKits.cs)
+11:09 [Error] Plugin filename UIKits1.1v.cs must match the main class UIKits (should be UIKits.cs)
+18:48 [Info] Loading Oxide Core v2.0.4048...
+18:48 [Info] Loading extensions...
+18:48 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+18:48 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+18:48 [Info] Loaded extension Rust v2.0.0 by Oxide Team and Contributors
+18:48 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+18:48 [Info] Unity version: 2019.4.7f1
+18:48 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+18:48 [Error] Could not check for update to Compiler.exe
+18:48 [Error] The remote server returned an error: (522) .
+18:48 [Info] Using Covalence provider for game 'Rust'
+18:48 [Info] Loading plugins...
+18:48 [Info] Loaded plugin Rust v2.0.0 by Oxide Team and Contributors
+18:48 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+18:48 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+18:48 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+19:09 [Info] Loading Oxide Core v2.0.4048...
+19:10 [Info] Loading extensions...
+19:10 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+19:10 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+19:10 [Info] Loaded extension Rust v2.0.0 by Oxide Team and Contributors
+19:10 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+19:10 [Info] Unity version: 2019.4.7f1
+19:10 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+19:10 [Error] Could not check for update to Compiler.exe
+19:10 [Error] The remote server returned an error: (522) .
+19:10 [Info] Using Covalence provider for game 'Rust'
+19:10 [Info] Loading plugins...
+19:10 [Info] Loaded plugin Rust v2.0.0 by Oxide Team and Contributors
+19:10 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+19:10 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+19:10 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+19:10 [Error] Plugin filename UIKits — копия.cs must match the main class UIKits (should be UIKits.cs)
+19:10 [Error] Plugin filename UIKits1.1v.cs must match the main class UIKits (should be UIKits.cs)
+21:52 [Info] Loading Oxide Core v2.0.4121...
+21:57 [Info] Loading Oxide Core v2.0.4121...
+21:58 [Info] Loading Oxide Core v2.0.4121...
+22:29 [Info] Loading Oxide Core v2.0.4048...
+22:29 [Info] Loading extensions...
+22:29 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+22:29 [Info] [NoSteam] Author: Kaidoz
+ Telegram: Kaidoz
+ Github: github.com/Kaidoz/Rust-NoSteam
+22:29 [Info] Loaded extension NoSteam v1.2.0 by Kaidoz
+22:29 [Info] Loaded extension RustEdit v1.0.40 by k1lly0u
+22:29 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+22:29 [Info] Loaded extension Rust v2.0.0 by Oxide Team and Contributors
+22:29 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+22:29 [Info] Unity version: 2019.4.7f1
+22:29 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+22:54 [Info] Loading Oxide Core v2.0.4048...
+22:54 [Info] Loading extensions...
+22:54 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+22:54 [Info] [NoSteam] Author: Kaidoz
+ Telegram: Kaidoz
+ Github: github.com/Kaidoz/Rust-NoSteam
+22:54 [Info] Loaded extension NoSteam v1.2.0 by Kaidoz
+22:54 [Info] Loaded extension RustEdit v1.0.40 by k1lly0u
+22:54 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+22:54 [Info] Loaded extension Rust v2.0.0 by Oxide Team and Contributors
+22:54 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+22:54 [Info] Unity version: 2019.4.7f1
+22:54 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+22:55 [Error] Could not check for update to Compiler.exe
+22:55 [Error] The remote server returned an error: (522) .
+22:55 [Info] Using Covalence provider for game 'Rust'
+22:55 [Info] Loading plugins...
+22:55 [Info] Loaded plugin RustEdit Automatic Updater v1.0.1 by Chaos
+22:55 [Info] Loaded plugin RustEdit Core v1.0.1 by Chaos
+22:55 [Info] Loaded plugin RustEdit Deployable Core v1.0.1 by Chaos
+22:55 [Info] Loaded plugin RustEdit IO Core v1.0.1 by Chaos
+22:55 [Info] Loaded plugin RustEdit Vending Core v1.0.1 by Chaos
+22:55 [Info] Loaded plugin RustEdit Loot Core v1.0.1 by Chaos
+22:55 [Info] Loaded plugin RustEdit Diesel Collectable Spawner v1.0.1 by Chaos
+22:55 [Info] Loaded plugin RustEdit Desk Keycard Spawner v1.0.1 by Chaos
+22:55 [Info] Loaded plugin RustEdit Resource Core v1.0.1 by Chaos
+22:55 [Info] Loaded plugin RustEdit JunkPile Core v1.0.1 by Chaos
+22:55 [Info] Loaded plugin RustEdit Spawn Core v1.0.1 by Chaos
+22:55 [Info] Loaded plugin RustEdit Ocean Path v1.0.1 by Chaos
+22:55 [Info] Loaded plugin RustEdit APC Core v1.0.1 by Chaos
+22:55 [Info] Loaded plugin RustEdit Vehicle Core v1.0.1 by Chaos
+22:55 [Info] Loaded plugin RustEdit NPC Core v1.0.1 by Chaos
+22:55 [Info] Loaded plugin RustEdit Excavator Rotation Correction v1.0.1 by Chaos
+22:55 [Info] Loaded plugin RustEdit Custom Topology Layers v1.0.1 by Chaos
+22:55 [Info] Loaded plugin Rust v2.0.0 by Oxide Team and Contributors
+22:55 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+22:55 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+22:55 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+22:55 [Error] Plugin filename UIKits — копия.cs must match the main class UIKits (should be UIKits.cs)
+22:55 [Error] Plugin filename UIKits1.1v.cs must match the main class UIKits (should be UIKits.cs)
+22:56 [Info] Loading Oxide Core v2.0.4048...
+22:56 [Info] Loading extensions...
+22:56 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+22:56 [Info] [NoSteam] Author: Kaidoz
+ Telegram: Kaidoz
+ Github: github.com/Kaidoz/Rust-NoSteam
+22:57 [Info] Loaded extension NoSteam v1.2.0 by Kaidoz
+22:57 [Info] Loaded extension RustEdit v1.0.40 by k1lly0u
+22:57 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+22:57 [Info] Loaded extension Rust v2.0.0 by Oxide Team and Contributors
+22:57 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+22:57 [Info] Unity version: 2019.4.7f1
+22:57 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+22:57 [Error] Could not check for update to Compiler.exe
+22:57 [Error] The remote server returned an error: (522) .
+22:57 [Info] Using Covalence provider for game 'Rust'
+22:57 [Info] Loading plugins...
+22:57 [Info] Loaded plugin RustEdit Automatic Updater v1.0.1 by Chaos
+22:57 [Info] Loaded plugin RustEdit Core v1.0.1 by Chaos
+22:57 [Info] Loaded plugin RustEdit Deployable Core v1.0.1 by Chaos
+22:57 [Info] Loaded plugin RustEdit IO Core v1.0.1 by Chaos
+22:57 [Info] Loaded plugin RustEdit Vending Core v1.0.1 by Chaos
+22:57 [Info] Loaded plugin RustEdit Loot Core v1.0.1 by Chaos
+22:57 [Info] Loaded plugin RustEdit Diesel Collectable Spawner v1.0.1 by Chaos
+22:57 [Info] Loaded plugin RustEdit Desk Keycard Spawner v1.0.1 by Chaos
+22:57 [Info] Loaded plugin RustEdit Resource Core v1.0.1 by Chaos
+22:57 [Info] Loaded plugin RustEdit JunkPile Core v1.0.1 by Chaos
+22:57 [Info] Loaded plugin RustEdit Spawn Core v1.0.1 by Chaos
+22:57 [Info] Loaded plugin RustEdit Ocean Path v1.0.1 by Chaos
+22:57 [Info] Loaded plugin RustEdit APC Core v1.0.1 by Chaos
+22:57 [Info] Loaded plugin RustEdit Vehicle Core v1.0.1 by Chaos
+22:57 [Info] Loaded plugin RustEdit NPC Core v1.0.1 by Chaos
+22:57 [Info] Loaded plugin RustEdit Excavator Rotation Correction v1.0.1 by Chaos
+22:57 [Info] Loaded plugin RustEdit Custom Topology Layers v1.0.1 by Chaos
+22:57 [Info] Loaded plugin Rust v2.0.0 by Oxide Team and Contributors
+22:57 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+22:57 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+22:57 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+22:57 [Error] Plugin filename UIKits — копия.cs must match the main class UIKits (should be UIKits.cs)
+22:57 [Error] Plugin filename UIKits1.1v.cs must match the main class UIKits (should be UIKits.cs)
