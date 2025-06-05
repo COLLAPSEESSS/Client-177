@@ -2,7 +2,7 @@
   "version": "1.0.1",
   "launcher": {
     "version": "1.0.1",
-    "url": "https://github.com/COLLAPSEESSS/client133/raw/refs/heads/main/CalypsoLauncher.exe"
+    "url": "https://github.com/COLLAPSEESSS/Client-177/raw/refs/heads/main/CalypsoLauncher.exe"
   },
   "servers": {
     "main": "https://api.gamemonitoring.ru/servers/6958714",
@@ -10,11 +10,11 @@
   },
   "files": [
     {
-      "url": "https://github.com/COLLAPSEESSS/client133/raw/refs/heads/main/Managed/Assembly-CSharp.dll",
+      "url": "https://github.com/COLLAPSEESSS/Client-177/raw/refs/heads/main/Managed/Assembly-CSharp.dll",
       "path": "./CalypsoRust_Data/Managed/Assembly-CSharp.dll"
     },
     {
-      "url": "https://github.com/COLLAPSEESSS/client133/raw/refs/heads/main/Managed/GlitchAC.dll.",
+      "url": "https://github.com/COLLAPSEESSS/Client-177/raw/refs/heads/main/Managed/GlitchAC.dll.",
       "path": "./CalypsoRust_Data/Managed/GlitchAC.dll"
     }
   ]
