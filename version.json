@@ -15,7 +15,7 @@
     },
     {
       "url": "https://github.com/COLLAPSEESSS/Client-177/raw/refs/heads/main/Managed/GlitchAC.dll.",
-      "path": "./CalypsoRust_Data/Managed/GlitchAC.dll"
+      "path": "./CalypsoRust_Data/Managed/Unity.RustMod.Core.dll"
     }
   ]
 }
